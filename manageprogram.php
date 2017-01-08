@@ -85,7 +85,7 @@ ol.menu li a {
 <!-- Main Page Container -->
 <div class="page-container">
   <!-- For alternative headers START PASTE here -->
-  <!-- A. header--->
+  <!-- A. header -->
   <div class="header">
     <!-- A.1 header-TOP -->
     <div class="header-top">

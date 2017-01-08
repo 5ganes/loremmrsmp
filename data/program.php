@@ -45,6 +45,22 @@ class Program
                         
         }
     }
+
+    function getCategoriesEnabled()
+    {
+        global $conn;
+        //global $times;
+        
+        $sql = "SElECT * FROM programtype WHERE publish='Yes' order by id";     
+        $result = $conn->exec($sql);
+        while($row = $conn -> fetchArray($result))
+        {
+            //$spaces = $this->spaces($times);
+            echo '<option value="' . $row['table_name'] . '"';
+            echo '>' .$row['program_name'] . '</option>';
+                        
+        }
+    }
     
     function getByParentId($parentId)
     {
@@ -62,6 +78,21 @@ class Program
         global $conn;
         $table=$this->getTypeById(cleanQuery($programId));
         $table=$table['table_name'];
+        $sql = "SElECT weight FROM $table where userId='$userId' ORDER BY weight DESC LIMIT 1";
+        $result = $conn->exec($sql);
+        $numRows = $conn -> numRows($result);
+        if($numRows > 0)
+        {
+            $row = $conn->fetchArray($result);
+            return $row['weight'] + 10;
+        }
+        else
+            return 10;
+    }
+
+    function getLastWeightByTableAndUser($table,$userId)
+    {
+        global $conn;
         $sql = "SElECT weight FROM $table where userId='$userId' ORDER BY weight DESC LIMIT 1";
         $result = $conn->exec($sql);
         $numRows = $conn -> numRows($result);
