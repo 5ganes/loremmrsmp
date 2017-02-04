@@ -14,10 +14,10 @@
 			$name = $filesop[0];
 			$address = $filesop[1];
 			$email = $filesop[2];
-			echo utf8_encode($name).'<br>';
-		 	// $sql = mysql_query("INSERT INTO csv (id, name, address, email) VALUES ('','$name','$address','$email')");
+			// echo $name.'<br>';
+		 	$sql = mysql_query("INSERT INTO csv (id, name, address, email) VALUES ('','$name','$address','$email')");
 		}
-		die();
+		// die();
 		if($sql){
 		 	echo "You database has imported successfully";
 		}

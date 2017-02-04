@@ -43,4 +43,11 @@
             <li><a href="cropprice.php">Manage Crops for Price List</a></li>
         </ul>
   	</li>
+    <li>
+      <p>Manage Crop Statistics</p>
+        <ul>
+            <li><a href="stat_crops.php">Import Crop Statistics</a></li>
+            <li><a href="stat_crops_list.php">Manage Crop Statistics</a></li>
+        </ul>
+    </li>
 </ul>

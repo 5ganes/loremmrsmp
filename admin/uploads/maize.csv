@@ -1,0 +1,1126 @@
+dcode,dname,area,dev_reg,eco_belt,yearcode,crop_name,amaize,pmaize,ymaize
+1,Taplejung,3646,easter d,mountain,2000/2001,maize,12463,17363,1393
+1,Taplejung,3646,easter d,mountain,2001/2002,maize,13150,21960,1670
+1,Taplejung,3646,easter d,mountain,2002/2003,maize,13150,21960,1670
+1,Taplejung,3646,easter d,mountain,2003/2004,maize,13150,21960,
+1,Taplejung,3646,easter d,mountain,2004/2005,maize,13150,22171,1686
+1,Taplejung,3646,easter d,mountain,2005/2006,maize,13075,22881,1750
+1,Taplejung,3646,easter d,mountain,2006/2007,maize,13075,24019,1837
+1,Taplejung,3646,easter d,mountain,2007/2008,maize,13187,28495,2161
+1,Taplejung,3646,easter d,mountain,2008/2009,maize,13187,28495,2161
+1,Taplejung,3646,easter d,mountain,2009/2010,maize,13200,26300,1992
+1,Taplejung,3646,easter d,mountain,2010/2011,maize,16075,36795,2289
+1,Taplejung,3646,easter d,mountain,2011/2012,maize,16075,38116,2371
+1,Taplejung,3646,easter d,mountain,2012/2013,maize,9150,27450,3000
+1,Taplejung,3646,easter d,mountain,2013/2014,maize,16075,49408,3074
+1,Taplejung,3646,easter d,mountain,2014/2015,maize,9150,30770,3363
+2,Panchthar,1241,easter d,hill,2000/2001,maize,14138,26155,1850
+2,Panchthar,1241,easter d,hill,2001/2002,maize,14151,16681,1179
+2,Panchthar,1241,easter d,hill,2002/2003,maize,14151,16681,1179
+2,Panchthar,1241,easter d,hill,2003/2004,maize,14151,16681,1179
+2,Panchthar,1241,easter d,hill,2004/2005,maize,14154,21231,1500
+2,Panchthar,1241,easter d,hill,2005/2006,maize,14154,21231,1500
+2,Panchthar,1241,easter d,hill,2006/2007,maize,14154,21231,1500
+2,Panchthar,1241,easter d,hill,2007/2008,maize,14160,22089,1560
+2,Panchthar,1241,easter d,hill,2008/2009,maize,14160,22133,1563
+2,Panchthar,1241,easter d,hill,2009/2010,maize,14150,21225,1500
+2,Panchthar,1241,easter d,hill,2010/2011,maize,14155,21233,1500
+2,Panchthar,1241,easter d,hill,2011/2012,maize,12800,21760,1700
+2,Panchthar,1241,easter d,hill,2012/2013,maize,8000,12240,1530
+2,Panchthar,1241,easter d,hill,2013/2014,maize,18627,29931,1607
+2,Panchthar,1241,easter d,hill,2014/2015,maize,18432,30412,1650
+3,Ilam,1703,easter d,hill,2000/2001,maize,24335,43681,1795
+3,Ilam,1703,easter d,hill,2001/2002,maize,24500,44350,1810
+3,Ilam,1703,easter d,hill,2002/2003,maize,24500,44350,1810
+3,Ilam,1703,easter d,hill,2003/2004,maize,24500,44350,1810
+3,Ilam,1703,easter d,hill,2004/2005,maize,24500,46550,1900
+3,Ilam,1703,easter d,hill,2005/2006,maize,22927,42415,1850
+3,Ilam,1703,easter d,hill,2006/2007,maize,23470,46940,2000
+3,Ilam,1703,easter d,hill,2007/2008,maize,23480,57526,2450
+3,Ilam,1703,easter d,hill,2008/2009,maize,23480,57526,2450
+3,Ilam,1703,easter d,hill,2009/2010,maize,23480,58500,2491
+3,Ilam,1703,easter d,hill,2010/2011,maize,31480,77500,2462
+3,Ilam,1703,easter d,hill,2011/2012,maize,31480,77500,2462
+3,Ilam,1703,easter d,hill,2012/2013,maize,31480,78385,2490
+3,Ilam,1703,easter d,hill,2013/2014,maize,28200,69654,2470
+3,Ilam,1703,easter d,hill,2014/2015,maize,31395,111452,3550
+4,Jhapa,1606,easter d,terai,2000/2001,maize,21055,42110,2000
+4,Jhapa,1606,easter d,terai,2001/2002,maize,21150,42300,2000
+4,Jhapa,1606,easter d,terai,2002/2003,maize,21150,42300,2000
+4,Jhapa,1606,easter d,terai,2003/2004,maize,21150,42300,2000
+4,Jhapa,1606,easter d,terai,2004/2005,maize,22000,44000,2000
+4,Jhapa,1606,easter d,terai,2005/2006,maize,22250,47838,2150
+4,Jhapa,1606,easter d,terai,2006/2007,maize,21700,54250,2500
+4,Jhapa,1606,easter d,terai,2007/2008,maize,22550,56627,2511
+4,Jhapa,1606,easter d,terai,2008/2009,maize,22600,58600,2593
+4,Jhapa,1606,easter d,terai,2009/2010,maize,22600,58600,2593
+4,Jhapa,1606,easter d,terai,2010/2011,maize,24600,62310,2533
+4,Jhapa,1606,easter d,terai,2011/2012,maize,24600,72460,2946
+4,Jhapa,1606,easter d,terai,2012/2013,maize,36185,82140,2270
+4,Jhapa,1606,easter d,terai,2013/2014,maize,36850,95000,2578
+4,Jhapa,1606,easter d,terai,2014/2015,maize,35500,92000,2592
+5,Morang,1855,easter d,terai,2000/2001,maize,14005,22064,1575
+5,Morang,1855,easter d,terai,2001/2002,maize,14100,25520,1810
+5,Morang,1855,easter d,terai,2002/2003,maize,14100,25520,1810
+5,Morang,1855,easter d,terai,2003/2004,maize,14100,25520,1810
+5,Morang,1855,easter d,terai,2004/2005,maize,14925,29830,1999
+5,Morang,1855,easter d,terai,2005/2006,maize,15500,34940,2254
+5,Morang,1855,easter d,terai,2006/2007,maize,15000,31500,2100
+5,Morang,1855,easter d,terai,2007/2008,maize,15100,34175,2263
+5,Morang,1855,easter d,terai,2008/2009,maize,15170,35200,2320
+5,Morang,1855,easter d,terai,2009/2010,maize,19220,42130,2192
+5,Morang,1855,easter d,terai,2010/2011,maize,16100,45300,2814
+5,Morang,1855,easter d,terai,2011/2012,maize,15100,45300,3000
+5,Morang,1855,easter d,terai,2012/2013,maize,1630,5379,3300
+5,Morang,1855,easter d,terai,2013/2014,maize,15000,50000,3333
+5,Morang,1855,easter d,terai,2014/2015,maize,14200,48220,3396
+6,Sunsari,1257,easter d,terai,2000/2001,maize,3000,7500,2500
+6,Sunsari,1257,easter d,terai,2001/2002,maize,5000,9750,1950
+6,Sunsari,1257,easter d,terai,2002/2003,maize,5000,9750,1950
+6,Sunsari,1257,easter d,terai,2003/2004,maize,5000,9750,1950
+6,Sunsari,1257,easter d,terai,2004/2005,maize,5700,11115,1950
+6,Sunsari,1257,easter d,terai,2005/2006,maize,5700,11115,1950
+6,Sunsari,1257,easter d,terai,2006/2007,maize,5200,13000,2500
+6,Sunsari,1257,easter d,terai,2007/2008,maize,5660,14150,2500
+6,Sunsari,1257,easter d,terai,2008/2009,maize,7300,14900,2041
+6,Sunsari,1257,easter d,terai,2009/2010,maize,7500,19600,2613
+6,Sunsari,1257,easter d,terai,2010/2011,maize,8500,23250,2735
+6,Sunsari,1257,easter d,terai,2011/2012,maize,7845,21966,2800
+6,Sunsari,1257,easter d,terai,2012/2013,maize,7845,27000,3442
+6,Sunsari,1257,easter d,terai,2013/2014,maize,7800,26500,3397
+6,Sunsari,1257,easter d,terai,2014/2015,maize,8350,25050,3000
+7,Dhankuta,891,easter d,hill,2000/2001,maize,19890,25022,1258
+7,Dhankuta,891,easter d,hill,2001/2002,maize,19890,23813,1700
+7,Dhankuta,891,easter d,hill,2002/2003,maize,19200,24190,1260
+7,Dhankuta,891,easter d,hill,2003/2004,maize,19200,24190,1260
+7,Dhankuta,891,easter d,hill,2004/2005,maize,19985,23382,1170
+7,Dhankuta,891,easter d,hill,2005/2006,maize,19950,38105,1910
+7,Dhankuta,891,easter d,hill,2006/2007,maize,19973,41943,2100
+7,Dhankuta,891,easter d,hill,2007/2008,maize,19985,50960,2550
+7,Dhankuta,891,easter d,hill,2008/2009,maize,19985,50960,2550
+7,Dhankuta,891,easter d,hill,2009/2010,maize,18875,54750,2901
+7,Dhankuta,891,easter d,hill,2010/2011,maize,17779,39736,2235
+7,Dhankuta,891,easter d,hill,2011/2012,maize,18200,42450,2332
+7,Dhankuta,891,easter d,hill,2012/2013,maize,18200,39312,2160
+7,Dhankuta,891,easter d,hill,2013/2014,maize,5450,14975,2748
+7,Dhankuta,891,easter d,hill,2014/2015,maize,6785,15500,2284
+8,Terhathum,679,easter d,hill,2000/2001,maize,11665,17415,1493
+8,Terhathum,679,easter d,hill,2001/2002,maize,11675,17863,1530
+8,Terhathum,679,easter d,hill,2002/2003,maize,11675,17863,1530
+8,Terhathum,679,easter d,hill,2003/2004,maize,11675,17863,1530
+8,Terhathum,679,easter d,hill,2004/2005,maize,11675,19665,1684
+8,Terhathum,679,easter d,hill,2005/2006,maize,11675,19614,1680
+8,Terhathum,679,easter d,hill,2006/2007,maize,12000,23160,1930
+8,Terhathum,679,easter d,hill,2007/2008,maize,12092,16164,1337
+8,Terhathum,679,easter d,hill,2008/2009,maize,12092,16164,1337
+8,Terhathum,679,easter d,hill,2009/2010,maize,12300,21600,1756
+8,Terhathum,679,easter d,hill,2010/2011,maize,12300,21014,1708
+8,Terhathum,679,easter d,hill,2011/2012,maize,12350,25935,2100
+8,Terhathum,679,easter d,hill,2012/2013,maize,12400,26288,2120
+8,Terhathum,679,easter d,hill,2013/2014,maize,12410,27302,2200
+8,Terhathum,679,easter d,hill,2014/2015,maize,12350,30875,2500
+9,Sankhuwasabha,3480,easter d,mountain,2000/2001,maize,12587,21448,1704
+9,Sankhuwasabha,3480,easter d,mountain,2001/2002,maize,12846,21838,1700
+9,Sankhuwasabha,3480,easter d,mountain,2002/2003,maize,12846,21838,1700
+9,Sankhuwasabha,3480,easter d,mountain,2003/2004,maize,12846,21838,1700
+9,Sankhuwasabha,3480,easter d,mountain,2004/2005,maize,12846,22789,1774
+9,Sankhuwasabha,3480,easter d,mountain,2005/2006,maize,13087,22623,1729
+9,Sankhuwasabha,3480,easter d,mountain,2006/2007,maize,13080,23740,1815
+9,Sankhuwasabha,3480,easter d,mountain,2007/2008,maize,14672,28209,1923
+9,Sankhuwasabha,3480,easter d,mountain,2008/2009,maize,14672,28209,1923
+9,Sankhuwasabha,3480,easter d,mountain,2009/2010,maize,13055,19583,1500
+9,Sankhuwasabha,3480,easter d,mountain,2010/2011,maize,14165,28259,1995
+9,Sankhuwasabha,3480,easter d,mountain,2011/2012,maize,13055,22193,1700
+9,Sankhuwasabha,3480,easter d,mountain,2012/2013,maize,13074,22226,1700
+9,Sankhuwasabha,3480,easter d,mountain,2013/2014,maize,12470,17000,1363
+9,Sankhuwasabha,3480,easter d,mountain,2014/2015,maize,12000,15000,1250
+10,Bhojpur,1507,easter d,hill,2000/2001,maize,20078,38146,1900
+10,Bhojpur,1507,easter d,hill,2001/2002,maize,20867,40907,1960
+10,Bhojpur,1507,easter d,hill,2002/2003,maize,20867,40907,1960
+10,Bhojpur,1507,easter d,hill,2003/2004,maize,20867,40907,1960
+10,Bhojpur,1507,easter d,hill,2004/2005,maize,20867,40907,1960
+10,Bhojpur,1507,easter d,hill,2005/2006,maize,20867,40907,1960
+10,Bhojpur,1507,easter d,hill,2006/2007,maize,20780,43638,2100
+10,Bhojpur,1507,easter d,hill,2007/2008,maize,20857,38585,1850
+10,Bhojpur,1507,easter d,hill,2008/2009,maize,20857,38585,1850
+10,Bhojpur,1507,easter d,hill,2009/2010,maize,21000,42600,2029
+10,Bhojpur,1507,easter d,hill,2010/2011,maize,22776,48600,2134
+10,Bhojpur,1507,easter d,hill,2011/2012,maize,24790,74370,3000
+10,Bhojpur,1507,easter d,hill,2012/2013,maize,25790,76470,2965
+10,Bhojpur,1507,easter d,hill,2013/2014,maize,42776,124050,2900
+10,Bhojpur,1507,easter d,hill,2014/2015,maize,36360,83735,2303
+11,Solukhumbu,3312,easter d,mountain,2000/2001,maize,12900,19995,1550
+11,Solukhumbu,3312,easter d,mountain,2001/2002,maize,12910,20100,1557
+11,Solukhumbu,3312,easter d,mountain,2002/2003,maize,12910,20100,1557
+11,Solukhumbu,3312,easter d,mountain,2003/2004,maize,12910,20100,1557
+11,Solukhumbu,3312,easter d,mountain,2004/2005,maize,12910,20100,1557
+11,Solukhumbu,3312,easter d,mountain,2005/2006,maize,12910,20100,1557
+11,Solukhumbu,3312,easter d,mountain,2006/2007,maize,12910,21689,1680
+11,Solukhumbu,3312,easter d,mountain,2007/2008,maize,12950,29100,2247
+11,Solukhumbu,3312,easter d,mountain,2008/2009,maize,12950,29100,2247
+11,Solukhumbu,3312,easter d,mountain,2009/2010,maize,12955,32388,2500
+11,Solukhumbu,3312,easter d,mountain,2010/2011,maize,12955,32388,2500
+11,Solukhumbu,3312,easter d,mountain,2011/2012,maize,12955,32388,2500
+11,Solukhumbu,3312,easter d,mountain,2012/2013,maize,12955,32517,2510
+11,Solukhumbu,3312,easter d,mountain,2013/2014,maize,12955,32517,2510
+11,Solukhumbu,3312,easter d,mountain,2014/2015,maize,12955,32517,2510
+12,Okhaldhunga,1074,easter d,hill,2000/2001,maize,9700,8730,900
+12,Okhaldhunga,1074,easter d,hill,2001/2002,maize,12440,20120,1617
+12,Okhaldhunga,1074,easter d,hill,2002/2003,maize,12440,20120,1617
+12,Okhaldhunga,1074,easter d,hill,2003/2004,maize,12440,20120,1617
+12,Okhaldhunga,1074,easter d,hill,2004/2005,maize,12440,20120,1617
+12,Okhaldhunga,1074,easter d,hill,2005/2006,maize,12635,22348,1769
+12,Okhaldhunga,1074,easter d,hill,2006/2007,maize,12635,22348,1769
+12,Okhaldhunga,1074,easter d,hill,2007/2008,maize,12545,24462,1950
+12,Okhaldhunga,1074,easter d,hill,2008/2009,maize,12545,24462,1950
+12,Okhaldhunga,1074,easter d,hill,2009/2010,maize,12097,22985,1900
+12,Okhaldhunga,1074,easter d,hill,2010/2011,maize,12097,23202,1918
+12,Okhaldhunga,1074,easter d,hill,2011/2012,maize,12400,27760,2239
+12,Okhaldhunga,1074,easter d,hill,2012/2013,maize,12400,26040,2100
+12,Okhaldhunga,1074,easter d,hill,2013/2014,maize,11580,25476,2200
+12,Okhaldhunga,1074,easter d,hill,2014/2015,maize,12400,28520,2300
+13,Khotang,1591,easter d,hill,2000/2001,maize,21606,34570,1600
+13,Khotang,1591,easter d,hill,2001/2002,maize,22000,42150,1916
+13,Khotang,1591,easter d,hill,2002/2003,maize,22000,42150,1916
+13,Khotang,1591,easter d,hill,2003/2004,maize,22000,42150,1916
+13,Khotang,1591,easter d,hill,2004/2005,maize,22500,45000,2000
+13,Khotang,1591,easter d,hill,2005/2006,maize,22500,43875,1950
+13,Khotang,1591,easter d,hill,2006/2007,maize,22500,43875,1950
+13,Khotang,1591,easter d,hill,2007/2008,maize,22580,53687,2378
+13,Khotang,1591,easter d,hill,2008/2009,maize,22580,53687,2378
+13,Khotang,1591,easter d,hill,2009/2010,maize,22950,49060,2138
+13,Khotang,1591,easter d,hill,2010/2011,maize,23000,52000,2261
+13,Khotang,1591,easter d,hill,2011/2012,maize,25000,63908,2556
+13,Khotang,1591,easter d,hill,2012/2013,maize,31066,69232,2229
+13,Khotang,1591,easter d,hill,2013/2014,maize,41060,70378,1714
+13,Khotang,1591,easter d,hill,2014/2015,maize,41060,75550,1840
+14,Udayapur,2063,easter d,hill,2000/2001,maize,12000,21756,1813
+14,Udayapur,2063,easter d,hill,2001/2002,maize,14500,26850,1852
+14,Udayapur,2063,easter d,hill,2002/2003,maize,14500,26850,1852
+14,Udayapur,2063,easter d,hill,2003/2004,maize,14500,26850,1852
+14,Udayapur,2063,easter d,hill,2004/2005,maize,18735,34697,1852
+14,Udayapur,2063,easter d,hill,2005/2006,maize,18735,34697,1852
+14,Udayapur,2063,easter d,hill,2006/2007,maize,16267,28467,1750
+14,Udayapur,2063,easter d,hill,2007/2008,maize,16890,30754,1821
+14,Udayapur,2063,easter d,hill,2008/2009,maize,16900,38025,2250
+14,Udayapur,2063,easter d,hill,2009/2010,maize,16900,38025,2250
+14,Udayapur,2063,easter d,hill,2010/2011,maize,15900,34980,2200
+14,Udayapur,2063,easter d,hill,2011/2012,maize,16880,34913.5,2068
+14,Udayapur,2063,easter d,hill,2012/2013,maize,9500,23275,2450
+14,Udayapur,2063,easter d,hill,2013/2014,maize,9500,23500,2474
+14,Udayapur,2063,easter d,hill,2014/2015,maize,9310,22344,2400
+15,Saptari,1363,easter d,terai,2000/2001,maize,3000,5700,2500
+15,Saptari,1363,easter d,terai,2001/2002,maize,4000,9200,2300
+15,Saptari,1363,easter d,terai,2002/2003,maize,4000,9200,2300
+15,Saptari,1363,easter d,terai,2003/2004,maize,4000,9200,2300
+15,Saptari,1363,easter d,terai,2004/2005,maize,4000,9200,2300
+15,Saptari,1363,easter d,terai,2005/2006,maize,4000,9500,2375
+15,Saptari,1363,easter d,terai,2006/2007,maize,4000,8000,2000
+15,Saptari,1363,easter d,terai,2007/2008,maize,4100,8250,2012
+15,Saptari,1363,easter d,terai,2008/2009,maize,4000,8800,2200
+15,Saptari,1363,easter d,terai,2009/2010,maize,4000,8000,2000
+15,Saptari,1363,easter d,terai,2010/2011,maize,4000,8000,2000
+15,Saptari,1363,easter d,terai,2011/2012,maize,4000,8000,2000
+15,Saptari,1363,easter d,terai,2012/2013,maize,300,750,2500
+15,Saptari,1363,easter d,terai,2013/2014,maize,3500,7800,2229
+15,Saptari,1363,easter d,terai,2014/2015,maize,3000,7000,2333
+16,Siraha,1188,easter d,terai,2000/2001,maize,2180,5086,2333
+16,Siraha,1188,easter d,terai,2001/2002,maize,1475,3540,2400
+16,Siraha,1188,easter d,terai,2002/2003,maize,1475,3540,2400
+16,Siraha,1188,easter d,terai,2003/2004,maize,1475,3540,2400
+16,Siraha,1188,easter d,terai,2004/2005,maize,1500,3750,2500
+16,Siraha,1188,easter d,terai,2005/2006,maize,1550,3875,2500
+16,Siraha,1188,easter d,terai,2006/2007,maize,2000,5000,2500
+16,Siraha,1188,easter d,terai,2007/2008,maize,2100,5040,2400
+16,Siraha,1188,easter d,terai,2008/2009,maize,2100,5040,2400
+16,Siraha,1188,easter d,terai,2009/2010,maize,2150,4800,2233
+16,Siraha,1188,easter d,terai,2010/2011,maize,1800,3600,2000
+16,Siraha,1188,easter d,terai,2011/2012,maize,3100,6820,2200
+16,Siraha,1188,easter d,terai,2012/2013,maize,1750,3150,1800
+16,Siraha,1188,easter d,terai,2013/2014,maize,2000,4000,2000
+16,Siraha,1188,easter d,terai,2014/2015,maize,1730,3460,2000
+17,Dhanusa,1180,central,terai,2000/2001,maize,2600,5665,2179
+17,Dhanusa,1180,central,terai,2001/2002,maize,2500,6500,2600
+17,Dhanusa,1180,central,terai,2002/2003,maize,2500,6500,2600
+17,Dhanusa,1180,central,terai,2003/2004,maize,2500,6500,2600
+17,Dhanusa,1180,central,terai,2004/2005,maize,1400,3500,2500
+17,Dhanusa,1180,central,terai,2005/2006,maize,1500,4050,2700
+17,Dhanusa,1180,central,terai,2006/2007,maize,1180,3068,2600
+17,Dhanusa,1180,central,terai,2007/2008,maize,1250,2850,2280
+17,Dhanusa,1180,central,terai,2008/2009,maize,1555,3850,2476
+17,Dhanusa,1180,central,terai,2009/2010,maize,2065,4085,1978
+17,Dhanusa,1180,central,terai,2010/2011,maize,2365,4967,2100
+17,Dhanusa,1180,central,terai,2011/2012,maize,2019,6460.8,3200
+17,Dhanusa,1180,central,terai,2012/2013,maize,2019,6662,3300
+17,Dhanusa,1180,central,terai,2013/2014,maize,2019,6663,3300
+17,Dhanusa,1180,central,terai,2014/2015,maize,2465,7700,3124
+18,Mahottari,1002,central,terai,2000/2001,maize,3000,6300,2100
+18,Mahottari,1002,central,terai,2001/2002,maize,3250,5850,1800
+18,Mahottari,1002,central,terai,2002/2003,maize,3250,5850,1800
+18,Mahottari,1002,central,terai,2003/2004,maize,3250,5850,1800
+18,Mahottari,1002,central,terai,2004/2005,maize,2850,5850,2053
+18,Mahottari,1002,central,terai,2005/2006,maize,2822,5644,2000
+18,Mahottari,1002,central,terai,2006/2007,maize,2930,5895,2012
+18,Mahottari,1002,central,terai,2007/2008,maize,2930,5860,2000
+18,Mahottari,1002,central,terai,2008/2009,maize,2930,5860,2000
+18,Mahottari,1002,central,terai,2009/2010,maize,2585,5785,2238
+18,Mahottari,1002,central,terai,2010/2011,maize,1935,4050,2093
+18,Mahottari,1002,central,terai,2011/2012,maize,2435,6451,2649
+18,Mahottari,1002,central,terai,2012/2013,maize,750,1500,2000
+18,Mahottari,1002,central,terai,2013/2014,maize,700,1400,2000
+18,Mahottari,1002,central,terai,2014/2015,maize,800,2100,2625
+19,Sarlahi,1259,central,terai,2000/2001,maize,8500,17815,2096
+19,Sarlahi,1259,central,terai,2001/2002,maize,8005,21610,2700
+19,Sarlahi,1259,central,terai,2002/2003,maize,8005,21610,2700
+19,Sarlahi,1259,central,terai,2003/2004,maize,8005,21610,2700
+19,Sarlahi,1259,central,terai,2004/2005,maize,8005,20013,2500
+19,Sarlahi,1259,central,terai,2005/2006,maize,8005,21000,2623
+19,Sarlahi,1259,central,terai,2006/2007,maize,7500,15375,2050
+19,Sarlahi,1259,central,terai,2007/2008,maize,7250,15298,2110
+19,Sarlahi,1259,central,terai,2008/2009,maize,7250,15298,2110
+19,Sarlahi,1259,central,terai,2009/2010,maize,7540,15500,2056
+19,Sarlahi,1259,central,terai,2010/2011,maize,8125,17063,2100
+19,Sarlahi,1259,central,terai,2011/2012,maize,10050,41205,4100
+19,Sarlahi,1259,central,terai,2012/2013,maize,3655,19677,5384
+19,Sarlahi,1259,central,terai,2013/2014,maize,5440,25283,4648
+19,Sarlahi,1259,central,terai,2014/2015,maize,5500,15000,2727
+20,Sindhuli,2491,central,hill,2000/2001,maize,15342,31006,2021
+20,Sindhuli,2491,central,hill,2001/2002,maize,14887,32007,2150
+20,Sindhuli,2491,central,hill,2002/2003,maize,14887,32007,2150
+20,Sindhuli,2491,central,hill,2003/2004,maize,14887,32007,2150
+20,Sindhuli,2491,central,hill,2004/2005,maize,15102,35308,2338
+20,Sindhuli,2491,central,hill,2005/2006,maize,15400,36030,2340
+20,Sindhuli,2491,central,hill,2006/2007,maize,16500,38693,2345
+20,Sindhuli,2491,central,hill,2007/2008,maize,16500,38693,2345
+20,Sindhuli,2491,central,hill,2008/2009,maize,16500,38693,2345
+20,Sindhuli,2491,central,hill,2009/2010,maize,16500,31503,1909
+20,Sindhuli,2491,central,hill,2010/2011,maize,18535,39423,2127
+20,Sindhuli,2491,central,hill,2011/2012,maize,15450,40170,2600
+20,Sindhuli,2491,central,hill,2012/2013,maize,18510,44410,2399
+20,Sindhuli,2491,central,hill,2013/2014,maize,23642,59577,2520
+20,Sindhuli,2491,central,hill,2014/2015,maize,23620,58500,2477
+21,Ramechhap,1546,central,hill,2000/2001,maize,14500,30015,2070
+21,Ramechhap,1546,central,hill,2001/2002,maize,15100,32090,2125
+21,Ramechhap,1546,central,hill,2002/2003,maize,15100,32090,2125
+21,Ramechhap,1546,central,hill,2003/2004,maize,15100,32090,2125
+21,Ramechhap,1546,central,hill,2004/2005,maize,20005,46112,2305
+21,Ramechhap,1546,central,hill,2005/2006,maize,21502,40805,1898
+21,Ramechhap,1546,central,hill,2006/2007,maize,23008,46016,2000
+21,Ramechhap,1546,central,hill,2007/2008,maize,23008,46016,2000
+21,Ramechhap,1546,central,hill,2008/2009,maize,23008,46016,2000
+21,Ramechhap,1546,central,hill,2009/2010,maize,23008,46016,2000
+21,Ramechhap,1546,central,hill,2010/2011,maize,18041,36800,2040
+21,Ramechhap,1546,central,hill,2011/2012,maize,20041,50102,2500
+21,Ramechhap,1546,central,hill,2012/2013,maize,21398,51355,2400
+21,Ramechhap,1546,central,hill,2013/2014,maize,21480,57352,2670
+21,Ramechhap,1546,central,hill,2014/2015,maize,21398,53922,2520
+22,Dolakha,2191,central,mountain,2000/2001,maize,5350,9095,1700
+22,Dolakha,2191,central,mountain,2001/2002,maize,5360,10649,1987
+22,Dolakha,2191,central,mountain,2002/2003,maize,5360,9648,1800
+22,Dolakha,2191,central,mountain,2003/2004,maize,5360,9648,1800
+22,Dolakha,2191,central,mountain,2004/2005,maize,5370,9934,1850
+22,Dolakha,2191,central,mountain,2005/2006,maize,5372,9950,1852
+22,Dolakha,2191,central,mountain,2006/2007,maize,5390,10800,2004
+22,Dolakha,2191,central,mountain,2007/2008,maize,5390,10800,2004
+22,Dolakha,2191,central,mountain,2008/2009,maize,5390,10800,2004
+22,Dolakha,2191,central,mountain,2009/2010,maize,5387,12336,2290
+22,Dolakha,2191,central,mountain,2010/2011,maize,5387,12336,2290
+22,Dolakha,2191,central,mountain,2011/2012,maize,8454,21135,2500
+22,Dolakha,2191,central,mountain,2012/2013,maize,5009,10485,2093
+22,Dolakha,2191,central,mountain,2013/2014,maize,5450,11718,2150
+22,Dolakha,2191,central,mountain,2014/2015,maize,5700,12825,2250
+23,Sindhupalchok,2542,central,mountain,2000/2001,maize,20547,40683,1980
+23,Sindhupalchok,2542,central,mountain,2001/2002,maize,21600,43200,2000
+23,Sindhupalchok,2542,central,mountain,2002/2003,maize,21866,46454,2124
+23,Sindhupalchok,2542,central,mountain,2003/2004,maize,21866,46454,2124
+23,Sindhupalchok,2542,central,mountain,2004/2005,maize,22366,50324,2250
+23,Sindhupalchok,2542,central,mountain,2005/2006,maize,21400,44940,2100
+23,Sindhupalchok,2542,central,mountain,2006/2007,maize,21000,47250,2250
+23,Sindhupalchok,2542,central,mountain,2007/2008,maize,21000,47250,2250
+23,Sindhupalchok,2542,central,mountain,2008/2009,maize,21895,51490,2352
+23,Sindhupalchok,2542,central,mountain,2009/2010,maize,21800,46500,2133
+23,Sindhupalchok,2542,central,mountain,2010/2011,maize,23920,52624,2200
+23,Sindhupalchok,2542,central,mountain,2011/2012,maize,24925,57078,2290
+23,Sindhupalchok,2542,central,mountain,2012/2013,maize,24900,50833,2041
+23,Sindhupalchok,2542,central,mountain,2013/2014,maize,24907,53958,2166
+23,Sindhupalchok,2542,central,mountain,2014/2015,maize,24900,53301,2141
+24,Kavrepalanchok,1396,central,hill,2000/2001,maize,25500,50900,1996
+24,Kavrepalanchok,1396,central,hill,2001/2002,maize,25500,58320,2287
+24,Kavrepalanchok,1396,central,hill,2002/2003,maize,25000,59000,2360
+24,Kavrepalanchok,1396,central,hill,2003/2004,maize,25000,59000,2360
+24,Kavrepalanchok,1396,central,hill,2004/2005,maize,23200,53400,2302
+24,Kavrepalanchok,1396,central,hill,2005/2006,maize,23200,53500,2306
+24,Kavrepalanchok,1396,central,hill,2006/2007,maize,23200,53500,2306
+24,Kavrepalanchok,1396,central,hill,2007/2008,maize,23200,55640,2398
+24,Kavrepalanchok,1396,central,hill,2008/2009,maize,24279,56288,2318
+24,Kavrepalanchok,1396,central,hill,2009/2010,maize,24279,56288,2318
+24,Kavrepalanchok,1396,central,hill,2010/2011,maize,24279,56096,2310
+24,Kavrepalanchok,1396,central,hill,2011/2012,maize,24300,62937,2590
+24,Kavrepalanchok,1396,central,hill,2012/2013,maize,25353,48334,1906
+24,Kavrepalanchok,1396,central,hill,2013/2014,maize,24278,51592,2125
+24,Kavrepalanchok,1396,central,hill,2014/2015,maize,25354,60849,2400
+25,Lalitpur,385,central,hill,2000/2001,maize,6470,10915,1687
+25,Lalitpur,385,central,hill,2001/2002,maize,6125,18070,2950
+25,Lalitpur,385,central,hill,2002/2003,maize,6150,17089,2779
+25,Lalitpur,385,central,hill,2003/2004,maize,6150,17089,2779
+25,Lalitpur,385,central,hill,2004/2005,maize,8649,23352,2700
+25,Lalitpur,385,central,hill,2005/2006,maize,8649,23352,2700
+25,Lalitpur,385,central,hill,2006/2007,maize,8940,17775,1988
+25,Lalitpur,385,central,hill,2007/2008,maize,8640,18500,2141
+25,Lalitpur,385,central,hill,2008/2009,maize,8640,18500,2141
+25,Lalitpur,385,central,hill,2009/2010,maize,8530,19543,2291
+25,Lalitpur,385,central,hill,2010/2011,maize,8589,22979,2675
+25,Lalitpur,385,central,hill,2011/2012,maize,10806,34579,3200
+25,Lalitpur,385,central,hill,2012/2013,maize,8589,24049,2800
+25,Lalitpur,385,central,hill,2013/2014,maize,8589,24908,2900
+25,Lalitpur,385,central,hill,2014/2015,maize,8589,26626,3100
+26,Bhaktapur,119,central,hill,2000/2001,maize,2100,7035,3350
+26,Bhaktapur,119,central,hill,2001/2002,maize,2037,6702,3290
+26,Bhaktapur,119,central,hill,2002/2003,maize,2037,6702,3290
+26,Bhaktapur,119,central,hill,2003/2004,maize,2037,6702,3290
+26,Bhaktapur,119,central,hill,2004/2005,maize,2040,6120,3000
+26,Bhaktapur,119,central,hill,2005/2006,maize,2040,6120,3000
+26,Bhaktapur,119,central,hill,2006/2007,maize,2035,6100,2998
+26,Bhaktapur,119,central,hill,2007/2008,maize,2035,6441,3165
+26,Bhaktapur,119,central,hill,2008/2009,maize,2035,6441,3165
+26,Bhaktapur,119,central,hill,2009/2010,maize,1793,5269,2939
+26,Bhaktapur,119,central,hill,2010/2011,maize,2000,6000,3000
+26,Bhaktapur,119,central,hill,2011/2012,maize,1970,7978,4050
+26,Bhaktapur,119,central,hill,2012/2013,maize,1969,7876,4000
+26,Bhaktapur,119,central,hill,2013/2014,maize,1969,8860,4500
+26,Bhaktapur,119,central,hill,2014/2015,maize,1965,8071,4107
+27,Kathmandu,395,central,hill,2000/2001,maize,7765,21742,2800
+27,Kathmandu,395,central,hill,2001/2002,maize,7300,23860,3268
+27,Kathmandu,395,central,hill,2002/2003,maize,7300,23860,3268
+27,Kathmandu,395,central,hill,2003/2004,maize,7300,23860,3268
+27,Kathmandu,395,central,hill,2004/2005,maize,5700,15960,2800
+27,Kathmandu,395,central,hill,2005/2006,maize,5410,15148,2800
+27,Kathmandu,395,central,hill,2006/2007,maize,5400,15633,2895
+27,Kathmandu,395,central,hill,2007/2008,maize,5400,16500,3056
+27,Kathmandu,395,central,hill,2008/2009,maize,5800,17920,3090
+27,Kathmandu,395,central,hill,2009/2010,maize,7400,18260,2468
+27,Kathmandu,395,central,hill,2010/2011,maize,7400,21260,2873
+27,Kathmandu,395,central,hill,2011/2012,maize,7124,28496,4000
+27,Kathmandu,395,central,hill,2012/2013,maize,7100,27203,3831
+27,Kathmandu,395,central,hill,2013/2014,maize,9923,33164,3342
+27,Kathmandu,395,central,hill,2014/2015,maize,9923,33450,3371
+28,Nuwakot,1121,central,hill,2000/2001,maize,20490,35300,1723
+28,Nuwakot,1121,central,hill,2001/2002,maize,20173,41355,2050
+28,Nuwakot,1121,central,hill,2002/2003,maize,20173,40692,2017
+28,Nuwakot,1121,central,hill,2003/2004,maize,20173,40692,2017
+28,Nuwakot,1121,central,hill,2004/2005,maize,20173,40693,2017
+28,Nuwakot,1121,central,hill,2005/2006,maize,19750,35550,1800
+28,Nuwakot,1121,central,hill,2006/2007,maize,19750,35550,1800
+28,Nuwakot,1121,central,hill,2007/2008,maize,20228,38040,1881
+28,Nuwakot,1121,central,hill,2008/2009,maize,20120,43658,2170
+28,Nuwakot,1121,central,hill,2009/2010,maize,20120,43658,2170
+28,Nuwakot,1121,central,hill,2010/2011,maize,20115,53509,2660
+28,Nuwakot,1121,central,hill,2011/2012,maize,19590,56811,2900
+28,Nuwakot,1121,central,hill,2012/2013,maize,20100,41434,2061
+28,Nuwakot,1121,central,hill,2013/2014,maize,19615,58845,3000
+28,Nuwakot,1121,central,hill,2014/2015,maize,20450,63435,3102
+29,Rasuwa,1544,central,mountain,2000/2001,maize,2152,3549,1649
+29,Rasuwa,1544,central,mountain,2001/2002,maize,2250,3370,1498
+29,Rasuwa,1544,central,mountain,2002/2003,maize,2250,3370,1498
+29,Rasuwa,1544,central,mountain,2003/2004,maize,2250,3370,1498
+29,Rasuwa,1544,central,mountain,2004/2005,maize,2350,4347,1850
+29,Rasuwa,1544,central,mountain,2005/2006,maize,2350,4347,1850
+29,Rasuwa,1544,central,mountain,2006/2007,maize,2350,4347,1850
+29,Rasuwa,1544,central,mountain,2007/2008,maize,2350,4500,1915
+29,Rasuwa,1544,central,mountain,2008/2009,maize,2350,4500,1915
+29,Rasuwa,1544,central,mountain,2009/2010,maize,2370,3984,1681
+29,Rasuwa,1544,central,mountain,2010/2011,maize,2338,4535,1940
+29,Rasuwa,1544,central,mountain,2011/2012,maize,2374,4700,1980
+29,Rasuwa,1544,central,mountain,2012/2013,maize,2324,3549,1527
+29,Rasuwa,1544,central,mountain,2013/2014,maize,2430,5080,2091
+29,Rasuwa,1544,central,mountain,2014/2015,maize,2430,4033,1660
+30,Dhading,1926,central,hill,2000/2001,maize,17700,33989,1920
+30,Dhading,1926,central,hill,2001/2002,maize,19485,40918,2100
+30,Dhading,1926,central,hill,2002/2003,maize,19485,40918,2100
+30,Dhading,1926,central,hill,2003/2004,maize,19485,40918,2100
+30,Dhading,1926,central,hill,2004/2005,maize,19485,40919,2100
+30,Dhading,1926,central,hill,2005/2006,maize,19453,40736,2094
+30,Dhading,1926,central,hill,2006/2007,maize,19453,30736,1580
+30,Dhading,1926,central,hill,2007/2008,maize,19480,33500,1720
+30,Dhading,1926,central,hill,2008/2009,maize,19465,33950,1744
+30,Dhading,1926,central,hill,2009/2010,maize,15343,23171,1510
+30,Dhading,1926,central,hill,2010/2011,maize,17468,43670,2500
+30,Dhading,1926,central,hill,2011/2012,maize,15342,26081,1700
+30,Dhading,1926,central,hill,2012/2013,maize,14873,24383,1639
+30,Dhading,1926,central,hill,2013/2014,maize,19445,48613,2500
+30,Dhading,1926,central,hill,2014/2015,maize,19445,37538,1930
+31,Makwanpur,2426,central,hill,2000/2001,maize,19300,45411,2353
+31,Makwanpur,2426,central,hill,2001/2002,maize,19500,41174,2111
+31,Makwanpur,2426,central,hill,2002/2003,maize,19500,41174,2111
+31,Makwanpur,2426,central,hill,2003/2004,maize,19500,41174,2111
+31,Makwanpur,2426,central,hill,2004/2005,maize,19500,41145,2110
+31,Makwanpur,2426,central,hill,2005/2006,maize,19500,41145,2110
+31,Makwanpur,2426,central,hill,2006/2007,maize,19812,48539,2450
+31,Makwanpur,2426,central,hill,2007/2008,maize,18037,43345,2403
+31,Makwanpur,2426,central,hill,2008/2009,maize,18050,44520,2466
+31,Makwanpur,2426,central,hill,2009/2010,maize,15598,36673,2351
+31,Makwanpur,2426,central,hill,2010/2011,maize,15560,40456,2600
+31,Makwanpur,2426,central,hill,2011/2012,maize,23636,72562,3070
+31,Makwanpur,2426,central,hill,2012/2013,maize,23636,63114,2670
+31,Makwanpur,2426,central,hill,2013/2014,maize,23648,67870,2870
+31,Makwanpur,2426,central,hill,2014/2015,maize,23650,70950,3000
+32,Rautahat,1126,central,terai,2000/2001,maize,3350,5360,1600
+32,Rautahat,1126,central,terai,2001/2002,maize,2950,5251,1780
+32,Rautahat,1126,central,terai,2002/2003,maize,2950,5015,1700
+32,Rautahat,1126,central,terai,2003/2004,maize,2950,5015,1700
+32,Rautahat,1126,central,terai,2004/2005,maize,2440,4650,1906
+32,Rautahat,1126,central,terai,2005/2006,maize,2440,4650,1906
+32,Rautahat,1126,central,terai,2006/2007,maize,2694,5298,1967
+32,Rautahat,1126,central,terai,2007/2008,maize,2694,4850,1800
+32,Rautahat,1126,central,terai,2008/2009,maize,2694,5050,1875
+32,Rautahat,1126,central,terai,2009/2010,maize,2655,4637,1747
+32,Rautahat,1126,central,terai,2010/2011,maize,4950,15840,3200
+32,Rautahat,1126,central,terai,2011/2012,maize,1680,5292,3150
+32,Rautahat,1126,central,terai,2012/2013,maize,1680,5544,3300
+32,Rautahat,1126,central,terai,2013/2014,maize,1700,5500,3235
+32,Rautahat,1126,central,terai,2014/2015,maize,1800,5800,3222
+33,Bara,1190,central,terai,2000/2001,maize,3125,7000,2240
+33,Bara,1190,central,terai,2001/2002,maize,3050,5490,1800
+33,Bara,1190,central,terai,2002/2003,maize,3000,5225,1742
+33,Bara,1190,central,terai,2003/2004,maize,3000,5225,1742
+33,Bara,1190,central,terai,2004/2005,maize,3110,5225,1680
+33,Bara,1190,central,terai,2005/2006,maize,3150,5292,1680
+33,Bara,1190,central,terai,2006/2007,maize,3150,6300,2000
+33,Bara,1190,central,terai,2007/2008,maize,3100,5910,1906
+33,Bara,1190,central,terai,2008/2009,maize,3100,6900,2226
+33,Bara,1190,central,terai,2009/2010,maize,3100,6900,2226
+33,Bara,1190,central,terai,2010/2011,maize,7500,21000,2800
+33,Bara,1190,central,terai,2011/2012,maize,7500,30750,4100
+33,Bara,1190,central,terai,2012/2013,maize,5150,21120,4101
+33,Bara,1190,central,terai,2013/2014,maize,13478,86260,6400
+33,Bara,1190,central,terai,2014/2015,maize,4750,13500,2842
+34,Parsa,1353,central,terai,2000/2001,maize,4250,11475,2700
+34,Parsa,1353,central,terai,2001/2002,maize,4150,11329,2730
+34,Parsa,1353,central,terai,2002/2003,maize,4150,11329,2730
+34,Parsa,1353,central,terai,2003/2004,maize,4150,11329,2730
+34,Parsa,1353,central,terai,2004/2005,maize,4050,11138,2750
+34,Parsa,1353,central,terai,2005/2006,maize,4055,13381,3300
+34,Parsa,1353,central,terai,2006/2007,maize,4025,12880,3200
+34,Parsa,1353,central,terai,2007/2008,maize,4050,12558,3101
+34,Parsa,1353,central,terai,2008/2009,maize,4100,12600,3073
+34,Parsa,1353,central,terai,2009/2010,maize,4100,12600,3073
+34,Parsa,1353,central,terai,2010/2011,maize,4065,12447,3062
+34,Parsa,1353,central,terai,2011/2012,maize,4072,16288,4000
+34,Parsa,1353,central,terai,2012/2013,maize,4075,14263,3500
+34,Parsa,1353,central,terai,2013/2014,maize,4075,14262,3500
+34,Parsa,1353,central,terai,2014/2015,maize,4075,14262,3500
+35,Chitawan,2218,central,terai,2000/2001,maize,28500,61500,2158
+35,Chitawan,2218,central,terai,2001/2002,maize,28600,47300,1654
+35,Chitawan,2218,central,terai,2002/2003,maize,27170,60510,2227
+35,Chitawan,2218,central,terai,2003/2004,maize,27170,60510,2227
+35,Chitawan,2218,central,terai,2004/2005,maize,20450,52147,2550
+35,Chitawan,2218,central,terai,2005/2006,maize,20450,44110,2157
+35,Chitawan,2218,central,terai,2006/2007,maize,20650,57820,2800
+35,Chitawan,2218,central,terai,2007/2008,maize,21150,59658,2821
+35,Chitawan,2218,central,terai,2008/2009,maize,21150,59660,2821
+35,Chitawan,2218,central,terai,2009/2010,maize,18050,46060,2552
+35,Chitawan,2218,central,terai,2010/2011,maize,20660,52463,2539
+35,Chitawan,2218,central,terai,2011/2012,maize,10000,30000,3000
+35,Chitawan,2218,central,terai,2012/2013,maize,3490,10500,3009
+35,Chitawan,2218,central,terai,2013/2014,maize,9750,29250,3000
+35,Chitawan,2218,central,terai,2014/2015,maize,9200,26700,2902
+36,Gorkha,3610,western,hill,2000/2001,maize,18590,35135,1890
+36,Gorkha,3610,western,hill,2001/2002,maize,18420,38500,2090
+36,Gorkha,3610,western,hill,2002/2003,maize,19090,40090,2100
+36,Gorkha,3610,western,hill,2003/2004,maize,19090,40090,2100
+36,Gorkha,3610,western,hill,2004/2005,maize,19121,40154,2100
+36,Gorkha,3610,western,hill,2005/2006,maize,19314,48285,2500
+36,Gorkha,3610,western,hill,2006/2007,maize,19350,48375,2500
+36,Gorkha,3610,western,hill,2007/2008,maize,19350,49150,2540
+36,Gorkha,3610,western,hill,2008/2009,maize,19350,47212,2440
+36,Gorkha,3610,western,hill,2009/2010,maize,19350,41602,2150
+36,Gorkha,3610,western,hill,2010/2011,maize,19350,43537,2250
+36,Gorkha,3610,western,hill,2011/2012,maize,17028,39692,2331
+36,Gorkha,3610,western,hill,2012/2013,maize,19353,45471,2350
+36,Gorkha,3610,western,hill,2013/2014,maize,19353,45480,2350
+36,Gorkha,3610,western,hill,2014/2015,maize,17033,45480,2670
+37,Lamjung,1692,western,hill,2000/2001,maize,11930,24015,2013
+37,Lamjung,1692,western,hill,2001/2002,maize,11840,20240,1709
+37,Lamjung,1692,western,hill,2002/2003,maize,11840,20240,1709
+37,Lamjung,1692,western,hill,2003/2004,maize,11840,20240,1709
+37,Lamjung,1692,western,hill,2004/2005,maize,15935,38244,2400
+37,Lamjung,1692,western,hill,2005/2006,maize,15935,38012,2385
+37,Lamjung,1692,western,hill,2006/2007,maize,15990,38277,2394
+37,Lamjung,1692,western,hill,2007/2008,maize,15990,38280,2394
+37,Lamjung,1692,western,hill,2008/2009,maize,15990,38890,2432
+37,Lamjung,1692,western,hill,2009/2010,maize,15900,35775,2250
+37,Lamjung,1692,western,hill,2010/2011,maize,15900,39137,2461
+37,Lamjung,1692,western,hill,2011/2012,maize,15900,39591,2490
+37,Lamjung,1692,western,hill,2012/2013,maize,15900,35654,2242
+37,Lamjung,1692,western,hill,2013/2014,maize,22725,52984,2332
+37,Lamjung,1692,western,hill,2014/2015,maize,15975,31950,2000
+38,Tanahu,1546,western,hill,2000/2001,maize,22000,52316,2378
+38,Tanahu,1546,western,hill,2001/2002,maize,21770,42435,1949
+38,Tanahu,1546,western,hill,2002/2003,maize,21960,46466,2116
+38,Tanahu,1546,western,hill,2003/2004,maize,21960,46466,2116
+38,Tanahu,1546,western,hill,2004/2005,maize,21960,57096,2600
+38,Tanahu,1546,western,hill,2005/2006,maize,21970,58220,2650
+38,Tanahu,1546,western,hill,2006/2007,maize,22755,58708,2580
+38,Tanahu,1546,western,hill,2007/2008,maize,22500,59880,2661
+38,Tanahu,1546,western,hill,2008/2009,maize,22150,59362,2680
+38,Tanahu,1546,western,hill,2009/2010,maize,22150,57147,2580
+38,Tanahu,1546,western,hill,2010/2011,maize,26029,68425,2629
+38,Tanahu,1546,western,hill,2011/2012,maize,22150,63970,2888
+38,Tanahu,1546,western,hill,2012/2013,maize,26045,71630,2750
+38,Tanahu,1546,western,hill,2013/2014,maize,26045,71630,2750
+38,Tanahu,1546,western,hill,2014/2015,maize,22000,64300,2923
+39,Syangja,1164,western,hill,2000/2001,maize,28800,57600,2000
+39,Syangja,1164,western,hill,2001/2002,maize,28800,64680,2246
+39,Syangja,1164,western,hill,2002/2003,maize,28800,65000,2257
+39,Syangja,1164,western,hill,2003/2004,maize,28800,65000,2257
+39,Syangja,1164,western,hill,2004/2005,maize,30800,80080,2600
+39,Syangja,1164,western,hill,2005/2006,maize,30800,80080,2600
+39,Syangja,1164,western,hill,2006/2007,maize,30800,81774,2655
+39,Syangja,1164,western,hill,2007/2008,maize,30800,86725,2816
+39,Syangja,1164,western,hill,2008/2009,maize,30800,88300,2867
+39,Syangja,1164,western,hill,2009/2010,maize,30800,88300,2867
+39,Syangja,1164,western,hill,2010/2011,maize,30900,97028,3140
+39,Syangja,1164,western,hill,2011/2012,maize,26500,92750,3500
+39,Syangja,1164,western,hill,2012/2013,maize,30905,92675,2999
+39,Syangja,1164,western,hill,2013/2014,maize,30905,81377,2633
+39,Syangja,1164,western,hill,2014/2015,maize,26500,79572,3003
+40,Kaski,2017,western,hill,2000/2001,maize,15805,28450,1800
+40,Kaski,2017,western,hill,2001/2002,maize,16000,31680,1980
+40,Kaski,2017,western,hill,2002/2003,maize,16000,32160,2010
+40,Kaski,2017,western,hill,2003/2004,maize,16000,32160,2010
+40,Kaski,2017,western,hill,2004/2005,maize,16035,32682,2038
+40,Kaski,2017,western,hill,2005/2006,maize,16037,35684,2225
+40,Kaski,2017,western,hill,2006/2007,maize,16310,36630,2246
+40,Kaski,2017,western,hill,2007/2008,maize,16300,37910,2326
+40,Kaski,2017,western,hill,2008/2009,maize,16300,41645,2555
+40,Kaski,2017,western,hill,2009/2010,maize,16800,41200,2452
+40,Kaski,2017,western,hill,2010/2011,maize,20800,52000,2500
+40,Kaski,2017,western,hill,2011/2012,maize,14010,32943,2351
+40,Kaski,2017,western,hill,2012/2013,maize,15573,42549,2732
+40,Kaski,2017,western,hill,2013/2014,maize,20573,52549,2554
+40,Kaski,2017,western,hill,2014/2015,maize,13773,31678,2300
+41,Manang,2246,western,mountain,2000/2001,maize,165,205,1242
+41,Manang,2246,western,mountain,2001/2002,maize,175,250,1429
+41,Manang,2246,western,mountain,2002/2003,maize,171,350,2047
+41,Manang,2246,western,mountain,2003/2004,maize,171,350,2047
+41,Manang,2246,western,mountain,2004/2005,maize,200,355,1775
+41,Manang,2246,western,mountain,2005/2006,maize,166,365,2199
+41,Manang,2246,western,mountain,2006/2007,maize,166,365,2199
+41,Manang,2246,western,mountain,2007/2008,maize,166,365,2199
+41,Manang,2246,western,mountain,2008/2009,maize,166,365,2199
+41,Manang,2246,western,mountain,2009/2010,maize,175,455,2600
+41,Manang,2246,western,mountain,2010/2011,maize,185,518,2800
+41,Manang,2246,western,mountain,2011/2012,maize,175,425,2429
+41,Manang,2246,western,mountain,2012/2013,maize,189,485,2566
+41,Manang,2246,western,mountain,2013/2014,maize,176,345,1960
+41,Manang,2246,western,mountain,2014/2015,maize,176,350,1989
+42,Mustang,3573,western,mountain,2000/2001,maize,150,195,1300
+42,Mustang,3573,western,mountain,2001/2002,maize,522,910,1743
+42,Mustang,3573,western,mountain,2002/2003,maize,525,766,1459
+42,Mustang,3573,western,mountain,2003/2004,maize,525,766,1459
+42,Mustang,3573,western,mountain,2004/2005,maize,525,780,1486
+42,Mustang,3573,western,mountain,2005/2006,maize,525,780,1486
+42,Mustang,3573,western,mountain,2006/2007,maize,525,780,1486
+42,Mustang,3573,western,mountain,2007/2008,maize,537,798,1486
+42,Mustang,3573,western,mountain,2008/2009,maize,537,795,1480
+42,Mustang,3573,western,mountain,2009/2010,maize,525,810,1543
+42,Mustang,3573,western,mountain,2010/2011,maize,525,810,1543
+42,Mustang,3573,western,mountain,2011/2012,maize,525,810,1543
+42,Mustang,3573,western,mountain,2012/2013,maize,525,770,1467
+42,Mustang,3573,western,mountain,2013/2014,maize,530,770,1453
+42,Mustang,3573,western,mountain,2014/2015,maize,516,774,1500
+43,Myagdi,2297,western,hill,2000/2001,maize,9850,9573,972
+43,Myagdi,2297,western,hill,2001/2002,maize,10095,16670,16510
+43,Myagdi,2297,western,hill,2002/2003,maize,10095,16670,1651
+43,Myagdi,2297,western,hill,2003/2004,maize,10095,16670,1651
+43,Myagdi,2297,western,hill,2004/2005,maize,11607,24375,2100
+43,Myagdi,2297,western,hill,2005/2006,maize,11607,24375,2100
+43,Myagdi,2297,western,hill,2006/2007,maize,11607,24375,2100
+43,Myagdi,2297,western,hill,2007/2008,maize,11108,25548,2300
+43,Myagdi,2297,western,hill,2008/2009,maize,11115,27788,2500
+43,Myagdi,2297,western,hill,2009/2010,maize,11112,26993,2429
+43,Myagdi,2297,western,hill,2010/2011,maize,11115,33847,3045
+43,Myagdi,2297,western,hill,2011/2012,maize,11115,34151,3073
+43,Myagdi,2297,western,hill,2012/2013,maize,11129,39665,3564
+43,Myagdi,2297,western,hill,2013/2014,maize,11134,40900,3673
+43,Myagdi,2297,western,hill,2014/2015,maize,9135,29414,3220
+44,Parbat,494,western,hill,2000/2001,maize,17756,25863,2200
+44,Parbat,494,western,hill,2001/2002,maize,13720,26068,1900
+44,Parbat,494,western,hill,2002/2003,maize,13720,27440,2000
+44,Parbat,494,western,hill,2003/2004,maize,13720,27440,2000
+44,Parbat,494,western,hill,2004/2005,maize,13728,26220,1910
+44,Parbat,494,western,hill,2005/2006,maize,14168,28624,2020
+44,Parbat,494,western,hill,2006/2007,maize,14198,30773,2167
+44,Parbat,494,western,hill,2007/2008,maize,14198,30773,2167
+44,Parbat,494,western,hill,2008/2009,maize,14180,34037,2400
+44,Parbat,494,western,hill,2009/2010,maize,14180,34037,2400
+44,Parbat,494,western,hill,2010/2011,maize,14205,27244,1918
+44,Parbat,494,western,hill,2011/2012,maize,14000,28762,2054
+44,Parbat,494,western,hill,2012/2013,maize,14285,30023,2102
+44,Parbat,494,western,hill,2013/2014,maize,14285,30405,2128
+44,Parbat,494,western,hill,2014/2015,maize,13925,29938,2150
+45,Baglung,1784,western,hill,2000/2001,maize,13277,23900,1800
+45,Baglung,1784,western,hill,2001/2002,maize,10580,27880,1690
+45,Baglung,1784,western,hill,2002/2003,maize,10600,18030,1701
+45,Baglung,1784,western,hill,2003/2004,maize,10600,18030,1701
+45,Baglung,1784,western,hill,2004/2005,maize,11275,24241,2150
+45,Baglung,1784,western,hill,2005/2006,maize,11500,25090,2182
+45,Baglung,1784,western,hill,2006/2007,maize,21000,44100,2100
+45,Baglung,1784,western,hill,2007/2008,maize,21352,45160,2115
+45,Baglung,1784,western,hill,2008/2009,maize,21370,53852,2520
+45,Baglung,1784,western,hill,2009/2010,maize,21300,48200,2263
+45,Baglung,1784,western,hill,2010/2011,maize,20327,52682,2592
+45,Baglung,1784,western,hill,2011/2012,maize,20341,59044,2903
+45,Baglung,1784,western,hill,2012/2013,maize,20344,56682,2786
+45,Baglung,1784,western,hill,2013/2014,maize,20349,58835,2891
+45,Baglung,1784,western,hill,2014/2015,maize,19942,58808,2949
+46,Gulmi,1149,western,hill,2000/2001,maize,22300,24039,1078
+46,Gulmi,1149,western,hill,2001/2002,maize,21350,29500,1382
+46,Gulmi,1149,western,hill,2002/2003,maize,21350,29500,1382
+46,Gulmi,1149,western,hill,2003/2004,maize,21350,29500,1382
+46,Gulmi,1149,western,hill,2004/2005,maize,20034,38870,1940
+46,Gulmi,1149,western,hill,2005/2006,maize,20050,39656,1978
+46,Gulmi,1149,western,hill,2006/2007,maize,20050,39656,1978
+46,Gulmi,1149,western,hill,2007/2008,maize,20050,39656,1978
+46,Gulmi,1149,western,hill,2008/2009,maize,21034,39864,1895
+46,Gulmi,1149,western,hill,2009/2010,maize,21034,39864,1895
+46,Gulmi,1149,western,hill,2010/2011,maize,24845,43909,1767
+46,Gulmi,1149,western,hill,2011/2012,maize,24040,55292,2300
+46,Gulmi,1149,western,hill,2012/2013,maize,24856,58542,2355
+46,Gulmi,1149,western,hill,2013/2014,maize,24844,52519,2114
+46,Gulmi,1149,western,hill,2014/2015,maize,24014,52900,2203
+47,Palpa,1373,western,hill,2000/2001,maize,20125,43268,2150
+47,Palpa,1373,western,hill,2001/2002,maize,20562,38807,1887
+47,Palpa,1373,western,hill,2002/2003,maize,20562,38807,1887
+47,Palpa,1373,western,hill,2003/2004,maize,20562,38807,1887
+47,Palpa,1373,western,hill,2004/2005,maize,20132,40050,1989
+47,Palpa,1373,western,hill,2005/2006,maize,20134,40250,1999
+47,Palpa,1373,western,hill,2006/2007,maize,20135,42284,2100
+47,Palpa,1373,western,hill,2007/2008,maize,20140,47532,2360
+47,Palpa,1373,western,hill,2008/2009,maize,20210,47940,2372
+47,Palpa,1373,western,hill,2009/2010,maize,20210,43729,2164
+47,Palpa,1373,western,hill,2010/2011,maize,21563,42417,1967
+47,Palpa,1373,western,hill,2011/2012,maize,20210,43070,2131
+47,Palpa,1373,western,hill,2012/2013,maize,21580,40368,1871
+47,Palpa,1373,western,hill,2013/2014,maize,21583,40879,1894
+47,Palpa,1373,western,hill,2014/2015,maize,20210,42386,2097
+48,Nawalparasi,2162,western,terai,2000/2001,maize,9240,19460,2106
+48,Nawalparasi,2162,western,terai,2001/2002,maize,8080,16968,2100
+48,Nawalparasi,2162,western,terai,2002/2003,maize,9245,19610,2121
+48,Nawalparasi,2162,western,terai,2003/2004,maize,9245,19610,2121
+48,Nawalparasi,2162,western,terai,2004/2005,maize,9500,21014,2212
+48,Nawalparasi,2162,western,terai,2005/2006,maize,9345,23154,2478
+48,Nawalparasi,2162,western,terai,2006/2007,maize,9695,24250,2501
+48,Nawalparasi,2162,western,terai,2007/2008,maize,9695,24900,2568
+48,Nawalparasi,2162,western,terai,2008/2009,maize,9700,24950,2572
+48,Nawalparasi,2162,western,terai,2009/2010,maize,9400,23520,2502
+48,Nawalparasi,2162,western,terai,2010/2011,maize,10750,33680,3133
+48,Nawalparasi,2162,western,terai,2011/2012,maize,8400,26000,3095
+48,Nawalparasi,2162,western,terai,2012/2013,maize,10750,35025,3258
+48,Nawalparasi,2162,western,terai,2013/2014,maize,10750,25310,2354
+48,Nawalparasi,2162,western,terai,2014/2015,maize,8400,14940,1779
+49,Rupandehi,1360,western,terai,2000/2001,maize,1779,1779,1000
+49,Rupandehi,1360,western,terai,2001/2002,maize,500,950,1900
+49,Rupandehi,1360,western,terai,2002/2003,maize,510,1020,2000
+49,Rupandehi,1360,western,terai,2003/2004,maize,510,1020,2000
+49,Rupandehi,1360,western,terai,2004/2005,maize,510,1020,2000
+49,Rupandehi,1360,western,terai,2005/2006,maize,550,1541,2802
+49,Rupandehi,1360,western,terai,2006/2007,maize,875,2188,2500
+49,Rupandehi,1360,western,terai,2007/2008,maize,900,2250,2500
+49,Rupandehi,1360,western,terai,2008/2009,maize,1250,3180,2544
+49,Rupandehi,1360,western,terai,2009/2010,maize,2400,6000,2500
+49,Rupandehi,1360,western,terai,2010/2011,maize,2500,7240,2896
+49,Rupandehi,1360,western,terai,2011/2012,maize,2300,6900,3000
+49,Rupandehi,1360,western,terai,2012/2013,maize,2550,10530,4129
+49,Rupandehi,1360,western,terai,2013/2014,maize,2650,10500,3962
+49,Rupandehi,1360,western,terai,2014/2015,maize,2550,10500,4118
+50,Kapilbastu,1738,western,terai,2000/2001,maize,800,1716,2145
+50,Kapilbastu,1738,western,terai,2001/2002,maize,800,1200,1500
+50,Kapilbastu,1738,western,terai,2002/2003,maize,500,1000,2000
+50,Kapilbastu,1738,western,terai,2003/2004,maize,500,1000,2000
+50,Kapilbastu,1738,western,terai,2004/2005,maize,500,1000,2000
+50,Kapilbastu,1738,western,terai,2005/2006,maize,1300,2730,2100
+50,Kapilbastu,1738,western,terai,2006/2007,maize,1240,2604,2100
+50,Kapilbastu,1738,western,terai,2007/2008,maize,1240,2630,2121
+50,Kapilbastu,1738,western,terai,2008/2009,maize,1240,3013,2430
+50,Kapilbastu,1738,western,terai,2009/2010,maize,1390,3027,2178
+50,Kapilbastu,1738,western,terai,2010/2011,maize,1390,3527,2537
+50,Kapilbastu,1738,western,terai,2011/2012,maize,760,1920,2526
+50,Kapilbastu,1738,western,terai,2012/2013,maize,1400,3350,2393
+50,Kapilbastu,1738,western,terai,2013/2014,maize,1370,3302,2410
+50,Kapilbastu,1738,western,terai,2014/2015,maize,3120,9500,3045
+51,Arghakhanchi,1193,western,hill,2000/2001,maize,16500,32175,1950
+51,Arghakhanchi,1193,western,hill,2001/2002,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2002/2003,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2003/2004,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2004/2005,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2005/2006,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2006/2007,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2007/2008,maize,16500,28350,1718
+51,Arghakhanchi,1193,western,hill,2008/2009,maize,16889,36311,2150
+51,Arghakhanchi,1193,western,hill,2009/2010,maize,16509,36300,2199
+51,Arghakhanchi,1193,western,hill,2010/2011,maize,16915,25485,1507
+51,Arghakhanchi,1193,western,hill,2011/2012,maize,16500,41150,2494
+51,Arghakhanchi,1193,western,hill,2012/2013,maize,16914,49441,2923
+51,Arghakhanchi,1193,western,hill,2013/2014,maize,16915,49448,2923
+51,Arghakhanchi,1193,western,hill,2014/2015,maize,16500,49500,3000
+52,Pyuthan,1309,mid-west,hill,2000/2001,maize,12050,19300,1602
+52,Pyuthan,1309,mid-west,hill,2001/2002,maize,12050,19500,1618
+52,Pyuthan,1309,mid-west,hill,2002/2003,maize,12050,19280,1600
+52,Pyuthan,1309,mid-west,hill,2003/2004,maize,12050,19280,1600
+52,Pyuthan,1309,mid-west,hill,2004/2005,maize,12025,18038,1500
+52,Pyuthan,1309,mid-west,hill,2005/2006,maize,12025,18038,1500
+52,Pyuthan,1309,mid-west,hill,2006/2007,maize,12025,17917,1490
+52,Pyuthan,1309,mid-west,hill,2007/2008,maize,12058,18158,1506
+52,Pyuthan,1309,mid-west,hill,2008/2009,maize,12058,18158,1506
+52,Pyuthan,1309,mid-west,hill,2009/2010,maize,12058,13626,1130
+52,Pyuthan,1309,mid-west,hill,2010/2011,maize,12058,24880,2063
+52,Pyuthan,1309,mid-west,hill,2011/2012,maize,12058,20390,1691
+52,Pyuthan,1309,mid-west,hill,2012/2013,maize,12058,18351,1522
+52,Pyuthan,1309,mid-west,hill,2013/2014,maize,12058,18462,1531
+52,Pyuthan,1309,mid-west,hill,2014/2015,maize,12058,21108,1751
+53,Rolpa,1879,mid-west,hill,2000/2001,maize,11190,17900,1600
+53,Rolpa,1879,mid-west,hill,2001/2002,maize,11190,17910,1601
+53,Rolpa,1879,mid-west,hill,2002/2003,maize,11190,17910,1601
+53,Rolpa,1879,mid-west,hill,2003/2004,maize,11190,17910,1601
+53,Rolpa,1879,mid-west,hill,2004/2005,maize,11190,17910,1601
+53,Rolpa,1879,mid-west,hill,2005/2006,maize,11611,17200,1481
+53,Rolpa,1879,mid-west,hill,2006/2007,maize,11611,17200,1481
+53,Rolpa,1879,mid-west,hill,2007/2008,maize,11621,17500,1506
+53,Rolpa,1879,mid-west,hill,2008/2009,maize,11621,17500,1506
+53,Rolpa,1879,mid-west,hill,2009/2010,maize,11665,19500,1672
+53,Rolpa,1879,mid-west,hill,2010/2011,maize,11661,24771,2124
+53,Rolpa,1879,mid-west,hill,2011/2012,maize,11667,25302,2169
+53,Rolpa,1879,mid-west,hill,2012/2013,maize,10305,16304,1582
+53,Rolpa,1879,mid-west,hill,2013/2014,maize,11881,26138,2200
+53,Rolpa,1879,mid-west,hill,2014/2015,maize,11880,27342,2302
+54,Rukum,2877,mid-west,hill,2000/2001,maize,18130,30820,1700
+54,Rukum,2877,mid-west,hill,2001/2002,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2002/2003,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2003/2004,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2004/2005,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2005/2006,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2006/2007,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2007/2008,maize,18650,31520,1690
+54,Rukum,2877,mid-west,hill,2008/2009,maize,18650,31705,1700
+54,Rukum,2877,mid-west,hill,2009/2010,maize,18650,35435,1900
+54,Rukum,2877,mid-west,hill,2010/2011,maize,18650,41030,2200
+54,Rukum,2877,mid-west,hill,2011/2012,maize,16785,30213,1800
+54,Rukum,2877,mid-west,hill,2012/2013,maize,15107,16013,1060
+54,Rukum,2877,mid-west,hill,2013/2014,maize,16289,30994,1903
+54,Rukum,2877,mid-west,hill,2014/2015,maize,16289,32578,2000
+55,Salyan,1462,mid-west,hill,2000/2001,maize,21568,39900,1850
+55,Salyan,1462,mid-west,hill,2001/2002,maize,21560,38040,1764
+55,Salyan,1462,mid-west,hill,2002/2003,maize,21560,38040,1764
+55,Salyan,1462,mid-west,hill,2003/2004,maize,21560,38040,1764
+55,Salyan,1462,mid-west,hill,2004/2005,maize,21570,43787,2030
+55,Salyan,1462,mid-west,hill,2005/2006,maize,21000,40236,1916
+55,Salyan,1462,mid-west,hill,2006/2007,maize,21000,40236,1916
+55,Salyan,1462,mid-west,hill,2007/2008,maize,21000,40236,1916
+55,Salyan,1462,mid-west,hill,2008/2009,maize,20500,39278,1916
+55,Salyan,1462,mid-west,hill,2009/2010,maize,20500,39278,1916
+55,Salyan,1462,mid-west,hill,2010/2011,maize,11588,24652,2127
+55,Salyan,1462,mid-west,hill,2011/2012,maize,11588,27803,2399
+55,Salyan,1462,mid-west,hill,2012/2013,maize,11560,22242,1924
+55,Salyan,1462,mid-west,hill,2013/2014,maize,16280,33495,2057
+55,Salyan,1462,mid-west,hill,2014/2015,maize,19370,40059,2068
+56,Dang,2955,mid-west,terai,2000/2001,maize,23000,41400,1800
+56,Dang,2955,mid-west,terai,2001/2002,maize,23500,43100,1834
+56,Dang,2955,mid-west,terai,2002/2003,maize,23500,47100,2004
+56,Dang,2955,mid-west,terai,2003/2004,maize,23500,47100,2004
+56,Dang,2955,mid-west,terai,2004/2005,maize,22700,56750,2500
+56,Dang,2955,mid-west,terai,2005/2006,maize,22700,56750,2500
+56,Dang,2955,mid-west,terai,2006/2007,maize,25500,54825,2150
+56,Dang,2955,mid-west,terai,2007/2008,maize,25600,56144,2193
+56,Dang,2955,mid-west,terai,2008/2009,maize,25200,55100,2187
+56,Dang,2955,mid-west,terai,2009/2010,maize,25200,28728,1140
+56,Dang,2955,mid-west,terai,2010/2011,maize,25200,55062,2185
+56,Dang,2955,mid-west,terai,2011/2012,maize,25200,54936,2180
+56,Dang,2955,mid-west,terai,2012/2013,maize,23400,46891,2004
+56,Dang,2955,mid-west,terai,2013/2014,maize,25300,46600,1842
+56,Dang,2955,mid-west,terai,2014/2015,maize,23200,46168,1990
+57,Banke,2337,mid-west,terai,2000/2001,maize,11660,21109,1810
+57,Banke,2337,mid-west,terai,2001/2002,maize,11200,20400,1821
+57,Banke,2337,mid-west,terai,2002/2003,maize,10298,21192,2058
+57,Banke,2337,mid-west,terai,2003/2004,maize,10298,21192,2058
+57,Banke,2337,mid-west,terai,2004/2005,maize,9224,12914,1400
+57,Banke,2337,mid-west,terai,2005/2006,maize,9200,18400,2000
+57,Banke,2337,mid-west,terai,2006/2007,maize,10000,19500,1950
+57,Banke,2337,mid-west,terai,2007/2008,maize,6599,11000,1667
+57,Banke,2337,mid-west,terai,2008/2009,maize,6600,10920,1655
+57,Banke,2337,mid-west,terai,2009/2010,maize,6600,7920,1200
+57,Banke,2337,mid-west,terai,2010/2011,maize,8660,18446,2130
+57,Banke,2337,mid-west,terai,2011/2012,maize,8547,20085,2350
+57,Banke,2337,mid-west,terai,2012/2013,maize,10697,29760,2782
+57,Banke,2337,mid-west,terai,2013/2014,maize,8500,15300,1800
+57,Banke,2337,mid-west,terai,2014/2015,maize,8990,19328,2150
+58,Bardiya,2025,mid-west,terai,2000/2001,maize,8700,17400,2000
+58,Bardiya,2025,mid-west,terai,2001/2002,maize,8750,17500,2000
+58,Bardiya,2025,mid-west,terai,2002/2003,maize,8750,17500,2000
+58,Bardiya,2025,mid-west,terai,2003/2004,maize,8750,17500,2000
+58,Bardiya,2025,mid-west,terai,2004/2005,maize,8750,17500,2000
+58,Bardiya,2025,mid-west,terai,2005/2006,maize,8750,21875,2500
+58,Bardiya,2025,mid-west,terai,2006/2007,maize,8600,18060,2100
+58,Bardiya,2025,mid-west,terai,2007/2008,maize,8100,15916,1965
+58,Bardiya,2025,mid-west,terai,2008/2009,maize,8100,14900,1840
+58,Bardiya,2025,mid-west,terai,2009/2010,maize,8100,13770,1700
+58,Bardiya,2025,mid-west,terai,2010/2011,maize,9000,18210,2023
+58,Bardiya,2025,mid-west,terai,2011/2012,maize,5450,10900,2000
+58,Bardiya,2025,mid-west,terai,2012/2013,maize,8000,20000,2500
+58,Bardiya,2025,mid-west,terai,2013/2014,maize,1200,2500,2083
+58,Bardiya,2025,mid-west,terai,2014/2015,maize,1200,3000,7500
+59,Surkhet,2451,mid-west,hill,2000/2001,maize,15240,27432,1800
+59,Surkhet,2451,mid-west,hill,2001/2002,maize,15290,30801,2014
+59,Surkhet,2451,mid-west,hill,2002/2003,maize,15290,30801,2014
+59,Surkhet,2451,mid-west,hill,2003/2004,maize,15290,30801,2014
+59,Surkhet,2451,mid-west,hill,2004/2005,maize,15870,38723,2440
+59,Surkhet,2451,mid-west,hill,2005/2006,maize,15965,35921,2250
+59,Surkhet,2451,mid-west,hill,2006/2007,maize,15965,44702,2800
+59,Surkhet,2451,mid-west,hill,2007/2008,maize,15970,42320,2650
+59,Surkhet,2451,mid-west,hill,2008/2009,maize,16100,40300,2503
+59,Surkhet,2451,mid-west,hill,2009/2010,maize,16100,42665,2650
+59,Surkhet,2451,mid-west,hill,2010/2011,maize,16100,41538,2580
+59,Surkhet,2451,mid-west,hill,2011/2012,maize,16100,45692,2838
+59,Surkhet,2451,mid-west,hill,2012/2013,maize,16100,43407,2696
+59,Surkhet,2451,mid-west,hill,2013/2014,maize,16100,38243,2375
+59,Surkhet,2451,mid-west,hill,2014/2015,maize,15281,39730,2600
+60,Dailekh,1502,mid-west,hill,2000/2001,maize,10740,19660,1831
+60,Dailekh,1502,mid-west,hill,2001/2002,maize,10700,19540,1826
+60,Dailekh,1502,mid-west,hill,2002/2003,maize,10600,19960,1883
+60,Dailekh,1502,mid-west,hill,2003/2004,maize,10600,19960,1883
+60,Dailekh,1502,mid-west,hill,2004/2005,maize,10695,20534,1920
+60,Dailekh,1502,mid-west,hill,2005/2006,maize,10695,20534,1920
+60,Dailekh,1502,mid-west,hill,2006/2007,maize,16093,30577,1900
+60,Dailekh,1502,mid-west,hill,2007/2008,maize,16090,29035,1805
+60,Dailekh,1502,mid-west,hill,2008/2009,maize,16090,29035,1805
+60,Dailekh,1502,mid-west,hill,2009/2010,maize,19950,37107,1860
+60,Dailekh,1502,mid-west,hill,2010/2011,maize,20150,39091,1940
+60,Dailekh,1502,mid-west,hill,2011/2012,maize,20150,37076,1840
+60,Dailekh,1502,mid-west,hill,2012/2013,maize,20150,36975,1835
+60,Dailekh,1502,mid-west,hill,2013/2014,maize,20150,37291,1851
+60,Dailekh,1502,mid-west,hill,2014/2015,maize,20150,39292,1950
+61,Jajarkot,2230,mid-west,hill,2000/2001,maize,8835,14791,1674
+61,Jajarkot,2230,mid-west,hill,2001/2002,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2002/2003,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2003/2004,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2004/2005,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2005/2006,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2006/2007,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2007/2008,maize,8830,16510,1870
+61,Jajarkot,2230,mid-west,hill,2008/2009,maize,8810,17200,1952
+61,Jajarkot,2230,mid-west,hill,2009/2010,maize,8412,19852,2360
+61,Jajarkot,2230,mid-west,hill,2010/2011,maize,7406,14071,1900
+61,Jajarkot,2230,mid-west,hill,2011/2012,maize,8386,12579,1500
+61,Jajarkot,2230,mid-west,hill,2012/2013,maize,7890,11930,1512
+61,Jajarkot,2230,mid-west,hill,2013/2014,maize,8266,10539,1275
+61,Jajarkot,2230,mid-west,hill,2014/2015,maize,9366,14539,1552
+62,Dolpa,7889,mid-west,mountain,2000/2001,maize,1920,2400,1250
+62,Dolpa,7889,mid-west,mountain,2001/2002,maize,2000,2400,1200
+62,Dolpa,7889,mid-west,mountain,2002/2003,maize,2000,2400,1200
+62,Dolpa,7889,mid-west,mountain,2003/2004,maize,2000,2400,1200
+62,Dolpa,7889,mid-west,mountain,2004/2005,maize,2000,2400,1200
+62,Dolpa,7889,mid-west,mountain,2005/2006,maize,2250,3038,1350
+62,Dolpa,7889,mid-west,mountain,2006/2007,maize,2250,3250,1444
+62,Dolpa,7889,mid-west,mountain,2007/2008,maize,2282,3906,1712
+62,Dolpa,7889,mid-west,mountain,2008/2009,maize,2282,4360,1911
+62,Dolpa,7889,mid-west,mountain,2009/2010,maize,2282,4108,1800
+62,Dolpa,7889,mid-west,mountain,2010/2011,maize,2300,3450,1500
+62,Dolpa,7889,mid-west,mountain,2011/2012,maize,2400,4000,1667
+62,Dolpa,7889,mid-west,mountain,2012/2013,maize,2177,224,103
+62,Dolpa,7889,mid-west,mountain,2013/2014,maize,220,250,1136
+62,Dolpa,7889,mid-west,mountain,2014/2015,maize,255,276,1082
+63,Jumla,2531,mid-west,mountain,2000/2001,maize,4525,6825,1508
+63,Jumla,2531,mid-west,mountain,2001/2002,maize,4525,6790,1501
+63,Jumla,2531,mid-west,mountain,2002/2003,maize,4525,6790,1501
+63,Jumla,2531,mid-west,mountain,2003/2004,maize,4525,6790,1501
+63,Jumla,2531,mid-west,mountain,2004/2005,maize,4625,6900,1492
+63,Jumla,2531,mid-west,mountain,2005/2006,maize,4625,6900,1492
+63,Jumla,2531,mid-west,mountain,2006/2007,maize,4625,6850,1481
+63,Jumla,2531,mid-west,mountain,2007/2008,maize,4625,6850,1481
+63,Jumla,2531,mid-west,mountain,2008/2009,maize,4625,6850,1481
+63,Jumla,2531,mid-west,mountain,2009/2010,maize,4510,6765,1500
+63,Jumla,2531,mid-west,mountain,2010/2011,maize,4550,7280,1600
+63,Jumla,2531,mid-west,mountain,2011/2012,maize,4500,6750,1500
+63,Jumla,2531,mid-west,mountain,2012/2013,maize,4500,5400,1200
+63,Jumla,2531,mid-west,mountain,2013/2014,maize,4500,7650,1700
+63,Jumla,2531,mid-west,mountain,2014/2015,maize,4500,7200,1600
+64,Kalikot,1741,mid-west,mountain,2000/2001,maize,1747,2620,1500
+64,Kalikot,1741,mid-west,mountain,2001/2002,maize,1730,2590,1497
+64,Kalikot,1741,mid-west,mountain,2002/2003,maize,1730,2590,1497
+64,Kalikot,1741,mid-west,mountain,2003/2004,maize,1730,2590,1497
+64,Kalikot,1741,mid-west,mountain,2004/2005,maize,1730,2590,1497
+64,Kalikot,1741,mid-west,mountain,2005/2006,maize,1730,2590,1497
+64,Kalikot,1741,mid-west,mountain,2006/2007,maize,1730,2450,1416
+64,Kalikot,1741,mid-west,mountain,2007/2008,maize,2250,2950,1311
+64,Kalikot,1741,mid-west,mountain,2008/2009,maize,2255,3834,1700
+64,Kalikot,1741,mid-west,mountain,2009/2010,maize,4455,8890,1996
+64,Kalikot,1741,mid-west,mountain,2010/2011,maize,5455,9792,1795
+64,Kalikot,1741,mid-west,mountain,2011/2012,maize,2520,5215,2069
+64,Kalikot,1741,mid-west,mountain,2012/2013,maize,2520,5215,2069
+64,Kalikot,1741,mid-west,mountain,2013/2014,maize,2525,5228,2070
+64,Kalikot,1741,mid-west,mountain,2014/2015,maize,2573,6026,2342
+65,Mugu,3535,mid-west,mountain,2000/2001,maize,550,650,1018
+65,Mugu,3535,mid-west,mountain,2001/2002,maize,550,850,1545
+65,Mugu,3535,mid-west,mountain,2002/2003,maize,550,850,1545
+65,Mugu,3535,mid-west,mountain,2003/2004,maize,550,850,1545
+65,Mugu,3535,mid-west,mountain,2004/2005,maize,565,1017,1800
+65,Mugu,3535,mid-west,mountain,2005/2006,maize,565,1017,1800
+65,Mugu,3535,mid-west,mountain,2006/2007,maize,565,1000,1770
+65,Mugu,3535,mid-west,mountain,2007/2008,maize,565,1000,1770
+65,Mugu,3535,mid-west,mountain,2008/2009,maize,565,1000,1770
+65,Mugu,3535,mid-west,mountain,2009/2010,maize,570,1026,1800
+65,Mugu,3535,mid-west,mountain,2010/2011,maize,607,607,1000
+65,Mugu,3535,mid-west,mountain,2011/2012,maize,610,959,1572
+65,Mugu,3535,mid-west,mountain,2012/2013,maize,610,1170,1918
+65,Mugu,3535,mid-west,mountain,2013/2014,maize,617,1061,1720
+65,Mugu,3535,mid-west,mountain,2014/2015,maize,621,1092,1758
+66,Humla,5655,mid-west,mountain,2000/2001,maize,70,109,1557
+66,Humla,5655,mid-west,mountain,2001/2002,maize,70,120,1714
+66,Humla,5655,mid-west,mountain,2002/2003,maize,80,145,1813
+66,Humla,5655,mid-west,mountain,2003/2004,maize,80,145,1813
+66,Humla,5655,mid-west,mountain,2004/2005,maize,82,155,1890
+66,Humla,5655,mid-west,mountain,2005/2006,maize,82,155,1890
+66,Humla,5655,mid-west,mountain,2006/2007,maize,82,140,1707
+66,Humla,5655,mid-west,mountain,2007/2008,maize,82,140,1707
+66,Humla,5655,mid-west,mountain,2008/2009,maize,82,140,1707
+66,Humla,5655,mid-west,mountain,2009/2010,maize,95,162,1705
+66,Humla,5655,mid-west,mountain,2010/2011,maize,105,160,1524
+66,Humla,5655,mid-west,mountain,2011/2012,maize,112,171,1529
+66,Humla,5655,mid-west,mountain,2012/2013,maize,112,171,1527
+66,Humla,5655,mid-west,mountain,2013/2014,maize,113,178,1575
+66,Humla,5655,mid-west,mountain,2014/2015,maize,118,182,1542
+67,Bajura,2188,far-west,mountain,2000/2001,maize,800,1280,1600
+67,Bajura,2188,far-west,mountain,2001/2002,maize,1010,1820,1802
+67,Bajura,2188,far-west,mountain,2002/2003,maize,1010,1820,1802
+67,Bajura,2188,far-west,mountain,2003/2004,maize,1010,1820,1802
+67,Bajura,2188,far-west,mountain,2004/2005,maize,1010,1820,1802
+67,Bajura,2188,far-west,mountain,2005/2006,maize,1010,1820,1802
+67,Bajura,2188,far-west,mountain,2006/2007,maize,990,1584,1600
+67,Bajura,2188,far-west,mountain,2007/2008,maize,990,1659,1676
+67,Bajura,2188,far-west,mountain,2008/2009,maize,990,1659,1676
+67,Bajura,2188,far-west,mountain,2009/2010,maize,895,995,1112
+67,Bajura,2188,far-west,mountain,2010/2011,maize,790,1749,2214
+67,Bajura,2188,far-west,mountain,2011/2012,maize,790,1817,2300
+67,Bajura,2188,far-west,mountain,2012/2013,maize,790,1817,2300
+67,Bajura,2188,far-west,mountain,2013/2014,maize,790,1848,2339
+67,Bajura,2188,far-west,mountain,2014/2015,maize,790,1848,2339
+68,Bajhang,3422,far-west,mountain,2000/2001,maize,3650,5285,1448
+68,Bajhang,3422,far-west,mountain,2001/2002,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2002/2003,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2003/2004,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2004/2005,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2005/2006,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2006/2007,maize,3650,6200,1699
+68,Bajhang,3422,far-west,mountain,2007/2008,maize,3650,6261,1715
+68,Bajhang,3422,far-west,mountain,2008/2009,maize,3650,6261,1715
+68,Bajhang,3422,far-west,mountain,2009/2010,maize,3645,3400,933
+68,Bajhang,3422,far-west,mountain,2010/2011,maize,3650,5475,1500
+68,Bajhang,3422,far-west,mountain,2011/2012,maize,3652,3980,1090
+68,Bajhang,3422,far-west,mountain,2012/2013,maize,3652,6573,1800
+68,Bajhang,3422,far-west,mountain,2013/2014,maize,3652,3871,1060
+68,Bajhang,3422,far-west,mountain,2014/2015,maize,3652,3871,1060
+69,Achham,1680,far-west,hill,2000/2001,maize,5115,7161,1400
+69,Achham,1680,far-west,hill,2001/2002,maize,5195,6250,1203
+69,Achham,1680,far-west,hill,2002/2003,maize,5195,6250,1203
+69,Achham,1680,far-west,hill,2003/2004,maize,5195,6250,1203
+69,Achham,1680,far-west,hill,2004/2005,maize,5195,6250,1203
+69,Achham,1680,far-west,hill,2005/2006,maize,5195,6250,1203
+69,Achham,1680,far-west,hill,2006/2007,maize,5336,8870,1662
+69,Achham,1680,far-west,hill,2007/2008,maize,5336,8870,1662
+69,Achham,1680,far-west,hill,2008/2009,maize,5336,8870,1662
+69,Achham,1680,far-west,hill,2009/2010,maize,6346,8250,1300
+69,Achham,1680,far-west,hill,2010/2011,maize,6351,9844,1550
+69,Achham,1680,far-west,hill,2011/2012,maize,6351,10479,1650
+69,Achham,1680,far-west,hill,2012/2013,maize,3350,9525,2843
+69,Achham,1680,far-west,hill,2013/2014,maize,3652,10163,2783
+69,Achham,1680,far-west,hill,2014/2015,maize,3652,10163,2783
+70,Doti,2025,far-west,hill,2000/2001,maize,2500,4290,1716
+70,Doti,2025,far-west,hill,2001/2002,maize,2590,4890,1888
+70,Doti,2025,far-west,hill,2002/2003,maize,2620,4454,1700
+70,Doti,2025,far-west,hill,2003/2004,maize,2620,4454,1700
+70,Doti,2025,far-west,hill,2004/2005,maize,2640,4906,1858
+70,Doti,2025,far-west,hill,2005/2006,maize,2590,4890,1900
+70,Doti,2025,far-west,hill,2006/2007,maize,2550,3825,1500
+70,Doti,2025,far-west,hill,2007/2008,maize,2550,5020,1969
+70,Doti,2025,far-west,hill,2008/2009,maize,2550,4850,1902
+70,Doti,2025,far-west,hill,2009/2010,maize,2545,4193,1648
+70,Doti,2025,far-west,hill,2010/2011,maize,2545,4193,1648
+70,Doti,2025,far-west,hill,2011/2012,maize,2445,4835.5,1978
+70,Doti,2025,far-west,hill,2012/2013,maize,2630,5240,1992
+70,Doti,2025,far-west,hill,2013/2014,maize,2748,5221,1900
+70,Doti,2025,far-west,hill,2014/2015,maize,2748,5221,1900
+71,Kailali,3235,far-west,terai,2000/2001,maize,12500,19500,1560
+71,Kailali,3235,far-west,terai,2001/2002,maize,12500,18750,1500
+71,Kailali,3235,far-west,terai,2002/2003,maize,15500,18750,1500
+71,Kailali,3235,far-west,terai,2003/2004,maize,12500,18750,1500
+71,Kailali,3235,far-west,terai,2004/2005,maize,16500,24750,1500
+71,Kailali,3235,far-west,terai,2005/2006,maize,16500,24750,1500
+71,Kailali,3235,far-west,terai,2006/2007,maize,16650,32468,1950
+71,Kailali,3235,far-west,terai,2007/2008,maize,17000,34150,2009
+71,Kailali,3235,far-west,terai,2008/2009,maize,17000,33500,1971
+71,Kailali,3235,far-west,terai,2009/2010,maize,16500,28500,1727
+71,Kailali,3235,far-west,terai,2010/2011,maize,16500,28500,1727
+71,Kailali,3235,far-west,terai,2011/2012,maize,6000,12000,2000
+71,Kailali,3235,far-west,terai,2012/2013,maize,5700,12000,2105
+71,Kailali,3235,far-west,terai,2013/2014,maize,5540,5755,1039
+71,Kailali,3235,far-west,terai,2014/2015,maize,5540,5755,1039
+72,Kanchanpur,1610,far-west,terai,2000/2001,maize,5905,10680,1809
+72,Kanchanpur,1610,far-west,terai,2001/2002,maize,6190,10025,1620
+72,Kanchanpur,1610,far-west,terai,2002/2003,maize,5912,11844,2003
+72,Kanchanpur,1610,far-west,terai,2003/2004,maize,5912,11844,2003
+72,Kanchanpur,1610,far-west,terai,2004/2005,maize,5912,11844,2003
+72,Kanchanpur,1610,far-west,terai,2005/2006,maize,6190,10025,1620
+72,Kanchanpur,1610,far-west,terai,2006/2007,maize,5750,10925,1900
+72,Kanchanpur,1610,far-west,terai,2007/2008,maize,5750,10925,1900
+72,Kanchanpur,1610,far-west,terai,2008/2009,maize,6050,11313,1870
+72,Kanchanpur,1610,far-west,terai,2009/2010,maize,5950,11495,1932
+72,Kanchanpur,1610,far-west,terai,2010/2011,maize,5950,11495,1932
+72,Kanchanpur,1610,far-west,terai,2011/2012,maize,5950,11900,2000
+72,Kanchanpur,1610,far-west,terai,2012/2013,maize,5950,10450,1756
+72,Kanchanpur,1610,far-west,terai,2013/2014,maize,3600,6840,1900
+72,Kanchanpur,1610,far-west,terai,2014/2015,maize,3600,6840,1900
+73,Dadeldhura,1538,far-west,hill,2000/2001,maize,3965,5763,1453
+73,Dadeldhura,1538,far-west,hill,2001/2002,maize,3970,6749,1700
+73,Dadeldhura,1538,far-west,hill,2002/2003,maize,3930,6520,1659
+73,Dadeldhura,1538,far-west,hill,2003/2004,maize,3930,6520,1659
+73,Dadeldhura,1538,far-west,hill,2004/2005,maize,3985,7551,1895
+73,Dadeldhura,1538,far-west,hill,2005/2006,maize,3970,6749,1700
+73,Dadeldhura,1538,far-west,hill,2006/2007,maize,3742,7858,2100
+73,Dadeldhura,1538,far-west,hill,2007/2008,maize,3742,5949,1590
+73,Dadeldhura,1538,far-west,hill,2008/2009,maize,3744,6313,1686
+73,Dadeldhura,1538,far-west,hill,2009/2010,maize,3744,5616,1500
+73,Dadeldhura,1538,far-west,hill,2010/2011,maize,3744,6390,1707
+73,Dadeldhura,1538,far-west,hill,2011/2012,maize,3744,6390,1707
+73,Dadeldhura,1538,far-west,hill,2012/2013,maize,3744,8236,2200
+73,Dadeldhura,1538,far-west,hill,2013/2014,maize,3744,10895,2910
+73,Dadeldhura,1538,far-west,hill,2014/2015,maize,3744,10895,2910
+74,Baitadi,1519,far-west,hill,2000/2001,maize,7510,12750,1698
+74,Baitadi,1519,far-west,hill,2001/2002,maize,8400,10920,1300
+74,Baitadi,1519,far-west,hill,2002/2003,maize,8400,10920,1300
+74,Baitadi,1519,far-west,hill,2003/2004,maize,8400,10920,1300
+74,Baitadi,1519,far-west,hill,2004/2005,maize,10000,17000,1700
+74,Baitadi,1519,far-west,hill,2005/2006,maize,9400,16450,1750
+74,Baitadi,1519,far-west,hill,2006/2007,maize,9400,16450,1750
+74,Baitadi,1519,far-west,hill,2007/2008,maize,9500,17270,1818
+74,Baitadi,1519,far-west,hill,2008/2009,maize,9500,17270,1818
+74,Baitadi,1519,far-west,hill,2009/2010,maize,9500,17100,1800
+74,Baitadi,1519,far-west,hill,2010/2011,maize,9500,17100,1800
+74,Baitadi,1519,far-west,hill,2011/2012,maize,14500,29000,2000
+74,Baitadi,1519,far-west,hill,2012/2013,maize,14500,18850,1300
+74,Baitadi,1519,far-west,hill,2013/2014,maize,14500,23417,1615
+74,Baitadi,1519,far-west,hill,2014/2015,maize,14500,23417,1615
+75,Darchula,2322,far-west,mountain,2000/2001,maize,5900,8850,1500
+75,Darchula,2322,far-west,mountain,2001/2002,maize,5900,8890,1507
+75,Darchula,2322,far-west,mountain,2002/2003,maize,5900,8890,1507
+75,Darchula,2322,far-west,mountain,2003/2004,maize,5900,8890,1507
+75,Darchula,2322,far-west,mountain,2004/2005,maize,6000,9300,1550
+75,Darchula,2322,far-west,mountain,2005/2006,maize,5900,5590,947
+75,Darchula,2322,far-west,mountain,2006/2007,maize,5900,9145,1550
+75,Darchula,2322,far-west,mountain,2007/2008,maize,5900,10970,1859
+75,Darchula,2322,far-west,mountain,2008/2009,maize,5900,10970,1859
+75,Darchula,2322,far-west,mountain,2009/2010,maize,5498,10930,1988
+75,Darchula,2322,far-west,mountain,2010/2011,maize,5520,12566,2276
+75,Darchula,2322,far-west,mountain,2011/2012,maize,5530,15552,2812
+75,Darchula,2322,far-west,mountain,2012/2013,maize,5530,11261,2036
+75,Darchula,2322,far-west,mountain,2013/2014,maize,3558,6404,1800
+75,Darchula,2322,far-west,mountain,2014/2015,maize,3558,6404,1800

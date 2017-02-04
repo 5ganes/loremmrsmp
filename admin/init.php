@@ -31,6 +31,10 @@ $sewakendra = new Sewakendra();
 require_once("../data/cropvariety.php");
 $cropvariety = new Cropvariety();
 
+require_once("../data/cropstatistics.php");
+$crop_stat = new Cropstatistics();
+
+
 define (ADMIN_GALLERY_LIMIT,20);
 
 

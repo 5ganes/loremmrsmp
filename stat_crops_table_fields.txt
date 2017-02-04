@@ -1,0 +1,16 @@
+stat_crops table fields
+
+-> id
+-> fiscal_year
+-> district_code
+-> district_name
+-> district_area
+-> development_region
+-> eco_belt
+-> crop_name
+-> crop_area
+-> crop_production
+-> crop_yield
+-> onDate
+-> publish
+-> weight
