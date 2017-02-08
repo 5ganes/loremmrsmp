@@ -28,6 +28,9 @@ $listingFiles		    = new ListingFiles();
 //$donate                 = new Donate();
 //$enewsletters			= new Enewsletters();
 
+require_once("data/cropstatistics.php");
+$crop_stat = new Cropstatistics();
+
 require_once("data/constants.php");
 require_once("data/sqlinjection.php");
 require_once("data/youtubeimagegrabber.php");

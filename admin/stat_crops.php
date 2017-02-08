@@ -72,7 +72,7 @@ if(isset($_POST['save'])){
                               <td>&nbsp;</td>
                               <td class="tahomabold11"><strong> Download Sample : <span class="asterisk">*</span></strong></td>
                               <td><label for="title"></label>
-                                <a target="_blank" href="uploads/sample-2073-10-22.xlsx">Sample File Download</a></td>
+                                <a target="_blank" href="uploads/sample-2073-10-22.csv">Sample File Download</a></td>
                             </tr>
                             <tr><td></td></tr>
 
