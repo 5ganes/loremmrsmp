@@ -24,19 +24,15 @@
         {
             if($counter==0){ $counter++; continue;}
             // print_r($filesop); die();
-            $fiscalYear = $filesop[0];
-            $userId = $_SESSION['userId'];
+            $fiscalYear = $filesop[2];
+            // $userId = $_SESSION['userId'];
+            $userId = $filesop[3];
             // $manualDate = date('Y-m-d', $filesop[1]); echo $manualDate; die();
-            $cropName = $filesop[1];
-            $cropCode = $filesop[2];
-            $areaUnit = $filesop[3];
-            $totalArea = $filesop[4];
-            $productionUnit = $filesop[5];
-            $totalProduction = $filesop[6];
-            $farmerUnit = $filesop[7];
-            $farmerPrice = $filesop[8];
-            $marketUnit = $filesop[9];
-            $marketPrice = $filesop[10];
+            $cropName = $filesop[4];
+            $areaUnit = $filesop[6];
+            $totalArea = $filesop[7];
+            $productionUnit = $filesop[8];
+            $totalProduction = $filesop[9];
             $onDate = date('Y-m-d'); //echo $onDate; die();
             $publish = 'Yes';
             $weight = $weight; $weight+=10;
@@ -47,15 +43,10 @@
                                     fiscalYear='$fiscalYear',
                                     userId='$userId',
                                     cropName='$cropName',
-                                    cropCode='$cropCode',
                                     areaUnit='$areaUnit',
                                     totalArea='$totalArea',
                                     productionUnit='$productionUnit',
                                     totalProduction='$totalProduction',
-                                    farmerUnit='$farmerUnit',
-                                    farmerPrice='$farmerPrice',
-                                    marketUnit='$marketUnit',
-                                    marketPrice='$marketPrice',
                                     onDate='$onDate',
                                     publish='$publish',
                                     weight='$weight'
