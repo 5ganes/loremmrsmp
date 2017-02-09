@@ -31,8 +31,10 @@
             $cropName = $filesop[4];
             $areaUnit = $filesop[6];
             $totalArea = $filesop[7];
+            $totalAreaHector = $filesop[7];
             $productionUnit = $filesop[8];
             $totalProduction = $filesop[9];
+            $totalProductionTon = $filesop[9];
             $onDate = date('Y-m-d'); //echo $onDate; die();
             $publish = 'Yes';
             $weight = $weight; $weight+=10;
@@ -45,8 +47,10 @@
                                     cropName='$cropName',
                                     areaUnit='$areaUnit',
                                     totalArea='$totalArea',
+                                    totalAreaHector ='$totalAreaHector',
                                     productionUnit='$productionUnit',
                                     totalProduction='$totalProduction',
+                                    totalProductionTon = '$totalProductionTon',
                                     onDate='$onDate',
                                     publish='$publish',
                                     weight='$weight'
