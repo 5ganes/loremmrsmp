@@ -5,7 +5,7 @@ define("ADMIN_LEFT_WIDTH", "20%");
 define("ADMIN_BODY_WIDTH", "80%");
 define("ADMIN_TITLE", "Admin Control Panel");
 define("PAGE_TITLE", "Market Research and Stastistics Management Programme");
-define("SITE_URL", "http://www.mrsmp.gov.np/");
+define("SITE_URL", "http://localhost/mrsmp/");
 
 
 ////////////////IMAGE FOLDER LOCATIONS////////////////////////
