@@ -68,7 +68,7 @@ class Cropstatistics
 
 	function getAllDistricts(){
 		global $conn;
-		$sql = "SElECT distinct district_name FROM statistics_crops ORDER BY district_name ASC";
+		$sql = "SElECT distinct district_name FROM statistics_crops ORDER BY district_name DESC";
 		// echo $sql; die();
 		$result = $conn->exec($sql);
 		return $result;
@@ -76,7 +76,7 @@ class Cropstatistics
 
 	function getAllCrops(){
 		global $conn;
-		$sql = "SElECT distinct crop_name FROM statistics_crops ORDER BY crop_name ASC";
+		$sql = "SElECT distinct crop_name FROM statistics_crops ORDER BY crop_name DESC";
 		// echo $sql; die();
 		$result = $conn->exec($sql);
 		return $result;
@@ -84,7 +84,7 @@ class Cropstatistics
 
 	function getAllFiscalYears(){
 		global $conn;
-		$sql = "SElECT distinct fiscal_year FROM statistics_crops ORDER BY fiscal_year ASC";
+		$sql = "SElECT distinct fiscal_year FROM statistics_crops ORDER BY fiscal_year DESC";
 		// echo $sql; die();
 		$result = $conn->exec($sql);
 		return $result;
