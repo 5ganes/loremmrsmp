@@ -157,7 +157,7 @@
             var barChartData = {
                 labels: levels,
                 datasets: [{
-                    label: 'Area [ Hector ]',
+                    label: 'Area [ Hectare ]',
                     backgroundColor: color(window.chartColors.red).alpha(0.5).rgbString(),
                     borderColor: window.chartColors.red,
                     borderWidth: 1,
@@ -168,7 +168,8 @@
                     borderColor: window.chartColors.blue,
                     borderWidth: 1,
                     data: jsonproduction
-                }]
+                }
+                ]
 
             };
             window.onload = function() {

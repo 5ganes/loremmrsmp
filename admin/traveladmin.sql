@@ -2,7 +2,7 @@
 SQLyog Ultimate - MySQL GUI v8.22 
 MySQL - 5.0.27-community-nt : Database - traveladmin
 *********************************************************************
-*/
+*/
 
 /*!40101 SET NAMES utf8 */;
 
