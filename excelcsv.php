@@ -1,5 +1,8 @@
-<?
+<?php
     session_start();
+    // error_reporting( E_ALL );
+    // ini_set('display_errors', 1);
+    include('clientobjectsProgram.php');
     if(!isset($_SESSION['userId']))
     {
         header("Location: programlogin.php");
@@ -9,15 +12,14 @@
     if($_SESSION['userType']!=USERDISTRICT)
     {
         header("location:reportcentral.php");
-    }
-    include('clientobjectsProgram.php'); 
+    } 
     $msg='';
 
     function insert($table, $record){
         // print_r($record);
         $sql = "INSERT INTO $table SET ";
         $keys = array_keys($record);
-        $values = [];
+        // $values = [];
         foreach ($record as $key => $value) {
             $values[] = $key . " = '" . $value . "'";
         }
@@ -42,7 +44,7 @@
             // print_r($filesop); die();
             // echo '<pre>'; print_r($filesop); die();
             
-            $record = [];
+            // $record = [];
             $record['fiscalYear'] = $filesop[0];
             // $userId = $_SESSION['userId'];
             // $userId = $filesop[3];
@@ -65,7 +67,7 @@
             }
             else if($groupType == 'tbl_nursery'){
                 $record['shrotKendra'] = $filesop[1];
-                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressVdcMunicipality'] = $filesop[2];
                 $record['addressWardNumber'] = $filesop[3];
                 $record['contactPerson'] = $filesop[4];
                 $record['phoneNumber'] = $filesop[5];
@@ -73,7 +75,7 @@
             }
             else if($groupType == 'tbl_agrigroups'){
                 $record['groupName'] = $filesop[1];
-                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressVdcMunicipality'] = $filesop[2];
                 $record['addressWardNumber'] = $filesop[3];
                 $record['contactPerson'] = $filesop[4] . ", " . $filesop[5];
                 // $record['phoneNumber'] = $filesop[5];
@@ -84,12 +86,12 @@
             }
             else if($groupType == 'tbl_agricoop'){
                 $record['cooperativeName'] = $filesop[1];
-                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressVdcMunicipality'] = $filesop[2];
                 $record['addressWardNumber'] = $filesop[3];
                 $record['contactPerson'] = $filesop[4] . ", " . $filesop[5];
                 $record['registrationNumber'] = $filesop[6];
             }
-            print_r($record); die();
+            // print_r($record); die();
             $record['onDate'] = date('Y-m-d'); //echo $onDate; die();
             $record['publish'] = 'Yes';
             $record['weight'] = $weight; $weight+=10;
