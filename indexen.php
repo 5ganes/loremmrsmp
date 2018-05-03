@@ -32,7 +32,7 @@
       	<!-- Navigation Level 0 -->
       	<div class="nav0">
         	<img src="img/flagnepal.gif" />
-        	<p style="margin:0px 0 0;font-size:13px;"><a href="<?=SITE_URL;?>" style="color:white">Nepali</a></p>
+        	<!-- <p style="margin:0px 0 0;font-size:13px;"><a href="<?=SITE_URL;?>" style="color:white">Nepali</a></p> -->
       	</div>
       	<div style="clear:both"></div>
     </div>

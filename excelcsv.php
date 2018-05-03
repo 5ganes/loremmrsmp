@@ -22,19 +22,22 @@
 
         while(($filesop = fgetcsv($handle, 1000, ",")) !== false)
         {
+            // echo '<pre>'; print_r($filesop); die();
             if($counter==0){ $counter++; continue;}
             // print_r($filesop); die();
-            $fiscalYear = $filesop[2];
+            // echo '<pre>'; print_r($filesop); die();
+            $fiscalYear = $filesop[0];
             // $userId = $_SESSION['userId'];
-            $userId = $filesop[3];
+            // $userId = $filesop[3];
+            $userId = $_SESSION['userId'];
             // $manualDate = date('Y-m-d', $filesop[1]); echo $manualDate; die();
-            $cropName = $filesop[4];
-            $areaUnit = $filesop[6];
-            $totalArea = $filesop[7];
-            $totalAreaHector = $filesop[7];
-            $productionUnit = $filesop[8];
-            $totalProduction = $filesop[9];
-            $totalProductionTon = $filesop[9];
+            $cropName = $filesop[1];
+            $areaUnit = '1';
+            $totalArea = $filesop[2];
+            $totalAreaHector = $filesop[2];
+            $productionUnit = '6';
+            $totalProduction = $filesop[3];
+            $totalProductionTon = $filesop[3];
             $onDate = date('Y-m-d'); //echo $onDate; die();
             $publish = 'Yes';
             $weight = $weight; $weight+=10;

@@ -26,8 +26,8 @@ define("PAGING_LIMIT", 30); // LISTING TYPE LIMIT FOR CLIENT
 define("LISTING_LIMIT", 6); // IMAGE AND VIDEO GALLERY LIMIT FOR CLIENT
 
 
-define("SLIDER", 8);
-define("WELCOME", 1);	
+define("SLIDER", 416);
+define("WELCOME", 176);	
 //define("TREKKING",14);
 define("CONTACT", 234);
 
@@ -67,6 +67,11 @@ define("SUBSIDI", 16);
 define("TRAINING", 15);
 
 define("INFO_OFFICER", 401);
+
+define('HOT_NEWS', 412);
+define('IMPORTANT_LINKS', 275);
+define('INFO_CAT', 241);
+define('PREVIOUS_NSTRUMENTS', 332);
 
 ///////////////GENERAL CLIENT SIDE CONSTANTS///////////////////
 
