@@ -12,6 +12,21 @@
     }
     include('clientobjectsProgram.php'); 
     $msg='';
+
+    function insert($table, $record){
+        // print_r($record);
+        $sql = "INSERT INTO $table SET ";
+        $keys = array_keys($record);
+        $values = [];
+        foreach ($record as $key => $value) {
+            $values[] = $key . " = '" . $value . "'";
+        }
+        $valueWithComma = implode(',', $values);
+        $sql .= $valueWithComma;
+        // echo $sql; die();    
+        if(mysql_query($sql)) return true; 
+    }
+
     if(isset($_POST['save']) and $_POST['save']=='Import'){
         $groupType = $_POST['groupType'];
         $file = $_FILES['excel']['tmp_name'];
@@ -26,40 +41,61 @@
             if($counter==0){ $counter++; continue;}
             // print_r($filesop); die();
             // echo '<pre>'; print_r($filesop); die();
-            $fiscalYear = $filesop[0];
+            
+            $record = [];
+            $record['fiscalYear'] = $filesop[0];
             // $userId = $_SESSION['userId'];
             // $userId = $filesop[3];
-            $userId = $_SESSION['userId'];
+            $record['userId'] = $_SESSION['userId'];
             // $manualDate = date('Y-m-d', $filesop[1]); echo $manualDate; die();
-            $cropName = $filesop[1];
-            $areaUnit = '1';
-            $totalArea = $filesop[2];
-            $totalAreaHector = $filesop[2];
-            $productionUnit = '6';
-            $totalProduction = $filesop[3];
-            $totalProductionTon = $filesop[3];
-            $onDate = date('Y-m-d'); //echo $onDate; die();
-            $publish = 'Yes';
-            $weight = $weight; $weight+=10;
+            if($groupType == 'tbl_crop'){
+                $record['cropName'] = $filesop[1];
+                $record['areaUnit'] = $filesop[2];
+                $record['totalArea'] = $filesop[2];
+                $record['totalAreaHector'] = $filesop[2];
+                $record['productionUnit'] = '6';
+                $record['totalProduction'] = $filesop[3];
+                $record['totalProductionTon'] = $filesop[3];
+            }
+            else if($groupType == 'tbl_pocketarea'){
+                $record['pocketAreaName'] = $filesop[1];
+                $record['areaUnit'] = 1;
+                $record['irrigatedArea'] = $filesop[2];
+                $record['irrigatedAreaHector'] = $filesop[2];
+            }
+            else if($groupType == 'tbl_nursery'){
+                $record['shrotKendra'] = $filesop[1];
+                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressWardNumber'] = $filesop[3];
+                $record['contactPerson'] = $filesop[4];
+                $record['phoneNumber'] = $filesop[5];
+                $record['registration'] = 7;
+            }
+            else if($groupType == 'tbl_agrigroups'){
+                $record['groupName'] = $filesop[1];
+                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressWardNumber'] = $filesop[3];
+                $record['contactPerson'] = $filesop[4] . ", " . $filesop[5];
+                // $record['phoneNumber'] = $filesop[5];
+                // $record['registration'] = 7;
+                $record['groupType'] = 81;
+                $record['meetingDay'] = 10;
+                $record['groupStatus'] = 47;
+            }
+            else if($groupType == 'tbl_agricoop'){
+                $record['cooperativeName'] = $filesop[1];
+                $record['addressVdcMunicipality'] = $filesop[2];;
+                $record['addressWardNumber'] = $filesop[3];
+                $record['contactPerson'] = $filesop[4] . ", " . $filesop[5];
+                $record['registrationNumber'] = $filesop[6];
+            }
+            print_r($record); die();
+            $record['onDate'] = date('Y-m-d'); //echo $onDate; die();
+            $record['publish'] = 'Yes';
+            $record['weight'] = $weight; $weight+=10;
+            // print_r($record); die();
 
-            $sql = "INSERT INTO 
-                            $groupType 
-                                set 
-                                    fiscalYear='$fiscalYear',
-                                    userId='$userId',
-                                    cropName='$cropName',
-                                    areaUnit='$areaUnit',
-                                    totalArea='$totalArea',
-                                    totalAreaHector ='$totalAreaHector',
-                                    productionUnit='$productionUnit',
-                                    totalProduction='$totalProduction',
-                                    totalProductionTon = '$totalProductionTon',
-                                    onDate='$onDate',
-                                    publish='$publish',
-                                    weight='$weight'
-                   ";
-                   // echo $sql; die();
-            $sql=mysql_query($sql);
+            $sql = insert($groupType, $record);
         }
         if($sql){
             $msg= "You database has imported successfully";
