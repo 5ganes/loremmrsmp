@@ -9,6 +9,7 @@ RewriteEngine On
 #for english
 RewriteRule ^en/home indexen.php [L]
 #RewriteRule ^en/programlogin.php programlogin.php [L]
+RewriteRule ^en/crop_statisticsnew.php crop_statisticsnew.php [L]
 RewriteRule ^en/([-A-Za-z0-9]+)$ indexen.php?lan=en&query=$1 [L]
 RewriteRule ^en indexen.php [L]
 
@@ -29,7 +30,8 @@ RewriteRule ^activitydestination/([-A-Za-z0-9]+)/([-A-Za-z0-9]+).html$ index.php
 RewriteRule ^booking/([-A-Za-z0-9]+).html$ index.php?url=$1&action=booking [L]
 
 RewriteRule ^products index.php?action=products [L]
-RewriteRule ^bills.html bills.php [L]
+RewriteRule ^bills.html billsnew.php [L]
+#RewriteRule ^bills.html bills.php [L]
 
 RewriteRule ^contact-us index.php?action=contact-us [L]
 RewriteRule ^category-([-A-Za-z0-9]+).html$ index.php?url=$1&action=showcategory [L]

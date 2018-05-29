@@ -7,8 +7,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="" content="">
       <title>
-        Market Research and Statistics Management Programme-
-      <?php if($pageName!=""){ echo $pageName;}else if(isset($_GET['action'])){ echo $_GET['action'];}else{ echo "Home";}?>
+        बजार अनुसन्धान तथा तथ्यांक व्यवस्थापन कार्यक्रम-
+      <?php if($pageName!=""){ echo $pageName;}else if(isset($_GET['action'])){ echo $_GET['action'];}else{ echo "गृह पृष्‍ठ";}?>
       </title>
       <?php include('baselocation.php'); ?>
       <meta name="description" content="Market Research and Stastistics Management Programme" />
@@ -27,16 +27,16 @@
             <!-- Static navbar -->
             <div class="row">
                   <div class="col-md-3 logo">
-                  <a href="<?php SITE_URL; ?>en"><img src="img/20135logo.png" class="img-responsive" alt="Logo"></a>
+                  <a href="<?php SITE_URL; ?>"><img src="img/20135logo.png" class="img-responsive" alt="Logo"></a>
           </div>
                   <div class="col-md-8 col-xs-6 head">
                       <p>
-                        Government of Nepal<br>
-                        Ministry of Agriculture Development<br>
-                        Department of Agriculture<br>
+                        नेपाल सरकार<br>
+                        कृषि विकास मन्त्रालय<br>
+                        कृषि विभाग<br>
                         <!-- <span style="font-size: 19px;">कृषि व्यवसाय प्रवर्द्धन तथा बजार विकास निर्देशनालय</span><br> -->
-                        <span style="font-size: 19px;">Ministry of Agriculture, Land Management and Cooperatives</span><br>
-                        <span style="font-size:24px; padding: 10px;">Market Research and Statistics Management Programme</span>
+                        <span style="font-size: 19px;">कृषि, भूमि व्यवस्था तथा सहकारी मन्त्रालय</span><br>
+                        <span style="font-size:24px; padding: 10px;">बजार अनुसन्धान तथा तथ्यांक व्यवस्थापन कार्यक्रम</span>
                                             
                       </p>
                       <div class="moad">
@@ -61,10 +61,11 @@
                             <div class="col-md-12">
                               <div class="row">
                                   <div style="margin:4px 4px 4px 0;">
-                                    <form id="w0" action="index.php" method="POST">                               
-                                        <input type="text" name="keyword" class="form-control" placeholder="Search Here" aria-describedby="basic-addon2">
-                                    </form>                              
-                                  </div>
+                    
+                    <form id="w0" action="" method="get">                               
+                      <input type="text" name="s" class="form-control" placeholder="खोज्नुहोस" aria-describedby="basic-addon2">
+                                    </form>                                    
+                                </div>
                               </div>
                     </div>
                     <!-- Search Feature End -->
@@ -88,7 +89,7 @@
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                   <ul class="nav navbar-nav">
-                    <?php createMenuEnNew(0, "Header"); ?>
+                    <?php createMenuNpNew(0, "Header"); ?>
               </ul>
                   </div>
             </nav>
@@ -99,57 +100,44 @@
     <div class="wrapper">
           <div class="container">
             <div class="row" style="margin-top:1%;">
-              <div class="col-md-3" style="margin-bottom:12px; color:#fff;">
-            <?php $msg=$groups->getById(274); $msgGet=$conn->fetchArray($msg); ?>
-            <div class="adz col-md-12 col-xs-4">      
-              <h3><?=$msgGet['name'];?></h3>
-              <a href="en/<?=$msgGet['urlname'];?>">
-                <img class="img-responsive" src="<?=CMS_GROUPS_DIR.$msgGet['image'];?>" alt="" style="width: 100%">
-              </a>
-              <p style="text-align:center; margin:0px; color:#404040">
-                <?=$msgGet['shortcontents'];?>
-              </p>
-            </div>
-            <? $msg=$groups->getById(INFO_OFFICER); $msgGet=$conn->fetchArray($msg); ?>
-                    <div class="adz col-md-12 col-xs-4">            
-                      <h3><?=$msgGet['name'];?></h3>
-                      <a href="en/<?=$msgGet['urlname'];?>">
-                        <img class="img-responsive" src="<?=CMS_GROUPS_DIR.$msgGet['image'];?>" alt="" style="width: 100%">
-                      </a>
-                          <p style="text-align:center; margin:0px; color:#404040">
-                            <?=$msgGet['shortcontents'];?>
-              </p>
-            </div>
-              <hr>
-                  
-                  
-            <div class="adz col-md-12 col-xs-4 textt">
-                    <p><a href="bills.html" target="_blank">भुक्तानीका लागि प्राप्त विलहरुको सार्वजनिकरण</a></p>
-                  </div>        
-              </div><!--col-md-2-->
-              <div class="col-md-9">                  
-                  
-                <?php 
-                if(isset($_POST['keyword'])){
-                  include("includes/search.php");     
-                }
-                else{
-                  if(isset($_GET['action']))
-                  {
-                    $action = $_GET['action'];
-                    $action = str_replace(".","", $action);
-                    include("includes/".$action.".php");      
-                  }       
-                  else if(isset($pageLinkType))
-                  {
-                    if ($pageLinkType == ""){}
-                    else{ include("includes/cmspage.php"); }
-                  }
-                  else{ include("includes/mainnew.php"); }
-                }
-                ?>
-
-          </div> <!--col-md-9-->
+              
+              <div class="col-md-12">                  
+                  <table align="center" border="1" cellspacing="0" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <th width="2" align="center">सि.नं</th>
+                        <th width="17" align="center">विवरण</th>
+                        <th width="10" align="center">ब.उ.शि.नं.</th>
+                        <th width="12" align="center">खर्च शिर्षक</th>
+                        <th width="15" align="center">खरिद प्रक्रिया</th>
+                        <th width="12" align="center">प्यान नं</th>
+                        <th width="28" align="center">भुक्तानी पाउने व्यक्ति/ संस्था</th>
+                        <th width="16" align="center">बिल / निवेदन प्राप्त भएको मिति</th>
+                        <th align="center" width="12">रकम</th>
+                        <th width="7" align="center">कैफियत</th>
+                        <th width="15" align="center">अप्लोड समय</th>
+                         
+                      </tr>
+                      <? $bill=mysql_query("select * from bills where publish='Yes' order by weight"); $i=0;
+                      while($billGet=mysql_fetch_array($bill))
+                      {?>
+                          <tr bgcolor="#DFDFDF">
+                            <td align="center"><?=++$i;?></td>
+                            <td align="center"><?=$billGet['description'];?></td>
+                            <td align="center"><?=$billGet['busn'];?></td>
+                            <td align="center"><?=$billGet['spentTitle'];?></td>
+                            <td align="center"><?=$billGet['buying'];?></td>
+                            <td align="center"><?=$billGet['panNo'];?></td>
+                            <td align="center"><?=$billGet['paymentReceiver'];?></td>
+                            <td align="center"><?=$billGet['billDate']?></td>
+                            <td align="center"><?=$billGet['amount'];?></td>
+                            <td align="center"><?=$billGet['remarks'];?></td>
+                            <td align="center"><?=$billGet['onDate'];?></td>
+                          </tr>
+                      <? }?> 
+                    </tbody>
+                  </table>
+              </div> <!--col-md-12-->
               </div><!---row-->
           </div><!--container -->
     </div>
@@ -159,9 +147,9 @@
               <div class="row">
                 <div class="col-md-3" id="contact" style="padding-top:20px;">
                   <?php $contact = $groups->getById(CONTACT); $contact = $conn->fetchArray($contact);?>
-                    <h4 style="font-family:Titillium; font-size:15px; color:#80ffce;"><?=$contact['name'];?></h4>
+                    <h4 style="font-family:Titillium; font-size:15px; color:#80ffce;"><?=$contact['namenp'];?></h4>
                     <p style="color:#fff;  font-family:Titillium; font-size:15px;">
-                      <?=$contact['shortcontents']; ?>
+                      <?=$contact['shortcontentsnp']; ?>
             </p>
                   </div>
                 
@@ -173,7 +161,7 @@
                         <? $pre=$groups->getByParentId(PREVIOUS_NSTRUMENTS);
                 while($preGet=$conn->fetchArray($pre))
                 {?>
-                  <li><a href="en/<?=$preGet['urlname'];?>"><?=$preGet['name'];?></a></li>
+                  <li><a href="<?=$preGet['urlname'];?>"><?=$preGet['namenp'];?></a></li>
                 <? }?>
                       </ul>
                     </div>
@@ -182,7 +170,7 @@
                 <div class="col-md-3 col-sm-6" style="padding-top:20px; font-family:Titillium; font-size:15px; color:#5eb5ff;">
                   <h4 style=" font-family:Titillium; font-size:15px; color:#80ffce;">Short Links</h4>
                     <div id="socialicons">
-              <a href="en/<?=SITE_URL?>">Homepage</a> | <a href="en/contact">Contact Us</a> | <a href="en/feedback">Feedbacks</a>
+              <a href="<?=SITE_URL?>">गृह पृष्‍ठ</a> | <a href="contact">सम्पर्क ठेगाना</a> | <a href="feedback">सुझाब तथा सल्लाह</a>
             </div>  
                 </div><!-- col-md-3 -->
               </div>        

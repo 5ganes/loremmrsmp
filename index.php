@@ -51,22 +51,24 @@
              	<div class="col-md-12">
                    	<div class="row">
                        	<div class="search pull-right">
-                            <!-- <div class="col-md-3 nep">
-				               <a href="http://moad.gov.np/ne" style="color: #fff; height: 30px; margin-top:2%;">नेपाली</a>
+                            <div class="col-md-3 nep">
+				               <a href="<?php echo SITE_URL; ?>" style="color: #fff; width: 100%; display: block;">नेपाली</a>
 				            </div>
 				            <div class="col-md-3 nep" style="border:none;">
-				                <a href="http://moad.gov.np/en" style="color: #fff; height: 30px;">अंग्रेजी</a> 
-							</div> -->
+				                <a href="<?php echo SITE_URL; ?>en" style="color: #fff; width: 100%; display: block;">English</a> 
+							</div>
+                            <!-- Search Feature -->
                             <div class="col-md-12">
                            	 	<div class="row">
-                                	<div style="margin:4px;">
+                                	<div style="margin:4px 4px 4px 0;">
 										
-										<form id="w0" action="" method="get">				                        
-											<input type="text" name="s" class="form-control" placeholder="खोज्नुहोस" aria-describedby="basic-addon2">
+										<form id="w0" action="index.php" method="POST">				                        
+											<input type="text" name="keyword" class="form-control" placeholder="खोज्नुहोस" aria-describedby="basic-addon2">
 		                               	</form>                               		 
 		                            </div>
                             	</div>
 				            </div>
+				            <!-- Search Feature End -->
                        	</div>
                     </div>
                 </div>
@@ -122,25 +124,31 @@
 			  			<hr>
             			
              			
-						<div class="textt">
+						<div class="adz col-md-12 col-xs-4 textt">
 			            	<p><a href="bills.html" target="_blank">भुक्तानीका लागि प्राप्त विलहरुको सार्वजनिकरण</a></p>
 			            </div>        
         			</div><!--col-md-2-->
         			<div class="col-md-9">                  
             			
         				<?php 
-							if(isset($_GET['action']))
+							if(isset($_POST['keyword']))
 							{
-								$action = $_GET['action'];
-								$action = str_replace(".","", $action);
-								include("includes/".$action.".php");			
-							}				
-							else if(isset($pageLinkType))
-							{
-								if ($pageLinkType == ""){}
-								else{ include("includes/cmspage.php"); }
+								include("includes/search.php");			
 							}
-							else{ include("includes/mainnewnp.php"); }
+							else{
+								if(isset($_GET['action']))
+								{
+									$action = $_GET['action'];
+									$action = str_replace(".","", $action);
+									include("includes/".$action.".php");			
+								}				
+								else if(isset($pageLinkType))
+								{
+									if ($pageLinkType == ""){}
+									else{ include("includes/cmspage.php"); }
+								}
+								else{ include("includes/mainnewnp.php"); }
+							}
 						?>
 
 					</div> <!--col-md-9-->

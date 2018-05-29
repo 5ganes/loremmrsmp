@@ -69,11 +69,44 @@ function createMenuNpNew($parentId, $groupType, $level = 0){
 			<?php
 			if($groupRow['linkType']=="Normal Group" and $groupRow['urlname']!='video-gallery')
 				createMenuNpNew($groupRow['id'], $groupType, $level+1);
-		echo "</li>\n";
-		}
-		if ($conn->numRows($groupResult) > 0 and $parentId != 0)
-		echo '</ul>';
+			echo "</li>\n";
 	}
+	if ($conn->numRows($groupResult) > 0 and $parentId != 0)
+	echo '</ul>';
+}
+
+function createMenuEnNew($parentId, $groupType, $level = 0){
+	global $groups;
+	global $conn;
+
+	if ($parentId == 0){
+		$groupResult = $groups->getByParentIdAndType($parentId, $groupType);	
+	}
+	else{
+		$groupResult = $groups->getByParentId($parentId);		
+	}
+
+	if ($conn->numRows($groupResult) > 0 and $parentId != 0 and $level == 1){
+		echo '<ul class="dropdown-menu" role="menu">';
+	}
+	else if ($conn->numRows($groupResult) > 0 and $parentId != 0 and $level == 2){
+		echo '<ul class="dropdown-menu">';
+	}
+
+	while($groupRow = $conn->fetchArray($groupResult)){?>
+		<li <?php if($groupRow['linkType']=="Normal Group" and $level == 0) echo 'class="dropdown"'; else if($groupRow['linkType']=="Normal Group" and $level == 1) echo 'class="dropdown-submenu"';?>>
+    		<a <?php if($groupRow['linkType']=="Normal Group" and $level == 0) echo 'class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"'; else if($groupRow['linkType']=="Normal Group" and $level == 1) echo 'class="dropdown-toggle" data-toggle="dropdown"';?> href="en/<? if($groupRow['linkType']!='File'){ if($lan=='en') echo 'en/'; if($groupRow['linkType']!='Link') echo $groupRow['urlname']; else echo $groupRow['contents'];} else{ echo CMS_FILES_DIR.$groupRow['contents'];}?>">
+    			<?php echo $groupRow['name'];?>
+    			<?php if($groupRow['linkType']=="Normal Group" and $level == 0) echo '<span class="caret"></span>';?>
+    		</a>
+			<?php
+			if($groupRow['linkType']=="Normal Group" and $groupRow['urlname']!='video-gallery')
+				createMenuNpNew($groupRow['id'], $groupType, $level+1);
+			echo "</li>\n";
+	}
+	if ($conn->numRows($groupResult) > 0 and $parentId != 0)
+	echo '</ul>';
+}
 
 
 ?>

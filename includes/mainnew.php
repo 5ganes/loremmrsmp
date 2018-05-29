@@ -4,7 +4,7 @@
 			<?php
 			$hot=$groups->getByParentId(HOT_NEWS);
 			while($hotGet = $conn->fetchArray($hot)){?>
-				<li style="display: list-item; "> <?=$hotGet['namenp'];?> </li>
+				<li style="display: list-item; "> <?=$hotGet['name'];?> </li>
 			<?php }?>
 		</ul>
 	</div>
@@ -42,14 +42,14 @@
 				<div class="col-md-12">
 	         		<div class="title3">
 	         			<?php $wel=$groups->getById(WELCOME); $welGet = $conn->fetchArray($wel);?>
-	      				<h4 style="color: #000; font-family:Titillium;"><strong><?=$welGet['namenp'];?></strong></h4>
+	      				<h4 style="color: #000; font-family:Titillium;"><strong><?=$welGet['name'];?></strong></h4>
 	      			</div>
 	      			<hr style="border:solid thin; border-color:#ccc; margin:0; padding:0; margin-bottom:10px; width:80px;">                               
 	        		<p style="font-family:Titillium; font-size:14px; text-align:justify; padding: 8px;">
 	        		</p>
-	        		<p style="text-align: justify; font-size: 14px"><?=$welGet['shortcontentsnp'];?></p>
+	        		<p style="text-align: justify; font-size: 14px"><?=$welGet['shortcontents'];?></p>
 					<p>&nbsp;</p>
-	            	<a href="<?=$welGet['urlname'];?>" class="pull-right">पुरा हेर्नुहोस</a>
+	            	<a href="en/<?=$welGet['urlname'];?>" class="pull-right">See More...</a>
 	         		<p></p>
 	       			<br>
 	       			<hr style="border:solid thin; border-color:#ccc;">
@@ -62,7 +62,7 @@
 		<div id="navbar3" class="navbar-collapse collapse">       
 			<ul class="nav nav-tabs">
 				<li class="active"><a data-toggle="tab">
-					<strong>जानकारी वर्गहरु</strong></a></li>		
+					<strong>Information Categories</strong></a></li>		
 				<li>
 			</ul>
 		</div>
@@ -71,7 +71,7 @@
 		<ul>
 			<?php $cat=$groups->getByParentIdWithLimit(INFO_CAT, 7); 
 			while($catGet = $conn->fetchArray($cat)){?>
-			<li><a href="<?=$catGet['urlname'];?>"><?=$catGet['namenp'];?></a></li>
+			<li><a href="en/<?=$catGet['urlname'];?>"><?=$catGet['name'];?></a></li>
 			<?php }?>
 		</ul>	
 	</div>
@@ -86,13 +86,13 @@
 			<div class="col-md-12">
          		<div class="title3">
          			<?php $wel=$groups->getById(WELCOME); $welGet = $conn->fetchArray($wel);?>
-      				<h4 style="color: #000; font-family:Titillium;"><strong>महत्वपुर्ण लिंकहरु</strong></h4>
+      				<h4 style="color: #000; font-family:Titillium;"><strong>Important Links</strong></h4>
       			</div>
       			<div class="impo-links">
       				<ul>
 						<?php $links=$groups->getByParentIdWithLimit(IMPORTANT_LINKS, 5); 
 						while($linkGet = $conn->fetchArray($links)){?>
-						<li><a href="<?=$linkGet['urlname'];?>"><?=$linkGet['namenp'];?></a></li>
+						<li><a href="en/<?=$linkGet['urlname'];?>"><?=$linkGet['name'];?></a></li>
 						<?php }?>
 					</ul>
       			</div>

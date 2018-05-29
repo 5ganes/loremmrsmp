@@ -125,7 +125,7 @@ hr{margin-top:10px; margin-bottom:10px;}
 .flag img{margin-top:20%;}
 .head p{text-align:center; color:#fff; font-size:16px; margin-top:2%; margin-left:15%;margin-bottom:0px;}
 .moad p{display:block; color:#82bb47; font-size:1px;}
-.nep{background:#093;padding:3%; border-right:1px solid #000; margin-top:1%;}
+.nep{background:#093;padding:2% 3%; border-right:1px solid #000; margin-top:1%;}
 .a1{ float:left; margin-right:10px;}
 #myCarousel .btn{position:absolute; bottom:10%; right:17%; padding:2% 6%; z-index:9999}
 #myCarousel .carousel-caption{display:none;}
@@ -152,7 +152,7 @@ hr{margin-top:10px; margin-bottom:10px;}
 .hh p{font-size:14px; padding-top:2%; color:#036;}
 .hh{padding:2%; background:#daecff;}
 hr{border:#ccc dotted 0.5px;}
-.textt{background:#598e11; color:#fff; font-size:13px;}
+.textt{background:#598e11 !important; color:#fff; font-size:13px;}
 .textt p{text-align:center; margin:0px;}
 .textt a{
   text-decoration: none;
@@ -914,11 +914,17 @@ background: whitesmoke;
 	.search{float:none!important;}
 	.moad p{display:inline-block; color:#fff; position:absolute; top:30px; font-size:25px; margin-left: -30px;}
 	.flag img{margin-top:20%;}
+  .adz{width: 100%;}
 	
 	
 	
 	.navbar-default .navbar-nav .open .dropdown-menu>li>a{color:#fff;}
 	
+}
+
+@media screen and (max-width: 700px){
+  .adz{width: 100%;}
+  .nep{border-right:none;}
 }
 
 
